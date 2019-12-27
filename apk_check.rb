@@ -1,12 +1,12 @@
 #ruby -r "./apk_check.rb" -e "APKCheck.new.start()"
 
-
 require 'rubygems'
 require 'fileutils'
 require 'nokogiri'
 require 'pry'
 require 'open-uri'
 require 'csv'
+require 'down'
 
 class APKCheck
   @version = []
@@ -20,6 +20,7 @@ class APKCheck
   def start
     File.open("apk_list.csv","r").readlines.each do |url|
       run_test(url)
+      download(url)
     end
   end
 
@@ -27,29 +28,26 @@ class APKCheck
     begin
       link = url.strip
       doc = Nokogiri::HTML(open(link))
-      @script = doc.search("script").to_s
-      @version = @script.split('version_name:').last.split(',')[0].strip.gsub(/'/,'')
+      script = doc.search("script").to_s
+      @version = script.split('version_name:').last.split(',')[0].strip.gsub(/'/,'')
+      @name = doc.css(".title.bread-crumbs").to_s.split('name').last.split('span')[0].gsub(/\W+/, '')
+
       # Find a way to compare versions and find when they are updated
       # if match = false download(url)
+
+      puts "#{@name}"
       puts "#{@version}"
-       binding.pry
       end
   end
 
   def download(url)
   # ruby -r "./apk_check.rb" -e "APKCheck.new.download 'https://apkpure.com/facebook-messenger/com.facebook.orca'"
-    open(url + "/download?from=details") do |apk|
-    File.open("./Messenger – Text and Video Chat for Free_v245.0.0.19.113_apkpure.com.apk", "wb") do |file|
-      file.write(apk.read)
+
+    link = url.strip
+    begin
+      tempfile = Down.download(link)
+      FileUtils.mv(tempfile.path, "./apk/#{tempfile.original_filename}")
     end
-  end
-
-  def name
-
-  end
-
-  def download_current_version
-    puts "This is download current version"
   end
 end
 

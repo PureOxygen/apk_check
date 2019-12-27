@@ -1,0 +1,1737 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Target for Android - APK Download</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Download Target apk 6.48.0 for Android. Plan, shop and save with the Target App, now with Target Circle." />
+    <meta name="keywords" content="Target, Target for android, Target android download, Target apk, Target android apk, Target download" />
+    <meta property="og:image" content="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMF8xNTcxMjUzOTk3XzA3OQ/screen-0.jpg?h=500&amp;fakeurl=1&amp;type=.jpg" />
+    <meta property="og:site_name" content="APKPure.com" />
+    <meta property="og:title" content="Target for Android - APK Download" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://apkpure.com/target/com.target.ui" />
+    <link rel="canonical" href="https://apkpure.com/target/com.target.ui" />
+    <link rel="alternate" href="https://apkpure.com/target/com.target.ui" hreflang="x-default" />
+    <link rel="alternate" href="https://apkpure.com/target/com.target.ui" hreflang="en" />
+    <link rel="alternate" href="https://apkpure.com/br/target/com.target.ui" hreflang="pt" />
+    <link rel="alternate" href="https://apkpure.com/es/target/com.target.ui" hreflang="es" />
+    <link rel="alternate" href="https://apkpure.com/ru/target/com.target.ui" hreflang="ru-RU" />
+    <link rel="alternate" href="https://apkpure.com/ar/target/com.target.ui" hreflang="ar" />
+    <link rel="alternate" href="https://apkpure.com/cn/target/com.target.ui" hreflang="zh-CN" />
+    <link rel="alternate" href="https://apkpure.com/tw/target/com.target.ui" hreflang="zh-TW" />
+    <link rel="alternate" href="https://apkpure.com/in/target/com.target.ui" hreflang="hi" />
+    <link rel="alternate" href="https://apkpure.com/id/target/com.target.ui" hreflang="id" />
+    <link rel="alternate" href="https://apkpure.com/it/target/com.target.ui" hreflang="it-IT" />
+    <link rel="alternate" href="https://apkpure.com/nl/target/com.target.ui" hreflang="nl" />
+    <link rel="alternate" href="https://apkpure.com/jp/target/com.target.ui" hreflang="ja" />
+    <link rel="alternate" href="https://apkpure.com/pl/target/com.target.ui" hreflang="pl" />
+    <link rel="alternate" href="https://apkpure.com/de/target/com.target.ui" hreflang="de-DE" />
+    <link rel="alternate" href="https://apkpure.com/vn/target/com.target.ui" hreflang="vi-VN" />
+    <link rel="alternate" href="https://apkpure.com/fr/target/com.target.ui" hreflang="fr-FR" />
+    <link rel="alternate" href="https://apkpure.com/tr/target/com.target.ui" hreflang="tr-TR" />
+    <link rel="alternate" href="https://apkpure.com/kr/target/com.target.ui" hreflang="ko-KR" />
+    <link rel="alternate" href="https://m.apkpure.com/target/com.target.ui" media="only screen and (max-width: 640px)" />
+    <link rel="amphtml" href="https://m.apkpure.com/target/com.target.ui/amp">
+    <script type="text/javascript">
+        (function() {
+            function getCookie(b){var f=b+"=";var a=document.cookie.split(";");for(var d=0;d<a.length;d++){var e=a[d];while(e.charAt(0)==" "){e=e.substring(1,e.length)}if(e.indexOf(f)==0){return e.substring(f.length,e.length)}}return null}
+            var url = "https://m.apkpure.com/target/com.target.ui";
+            if(url && /ipod|iphone|ipad|android|symbianos|blackberry|webos|windows phone/i.test(navigator.userAgent)) {
+                if (getCookie('mobile') != 0) {
+                    location.href = url;
+                    return;
+                }
+            }
+            function setCookie(d,e,h,a,g){var f=d+"="+e;if(h){var b=new Date();b.setTime(b.getTime()+(h*24*60*60*1000));f+="; expires="+b.toGMTString()}f+="; path=/";if(a){f+="; domain="+a}if(g){f+="; secure"}document.cookie=f};
+            window.nextByApkpure = function (u) {if(u){setCookie("apkpure__next", u, 300, 'apkpure.com');}};
+            Redirect={getLangCookie:function(){return getCookie("apkpure__lang")},setLangCookie:function(a){setCookie("apkpure__lang",a,300,"apkpure.com")},isMainURL:function(){return Redirect.lang()==="en"&&'false'==="true"},lang:function(){return"en"},isShowLangTip:false,langGoll:"",langGoUrl:"",prefix:"https://apkpure.com",getRedirectUrl: function (d) {return Redirect.prefix + "/" + d + "/"},isBetaLang:function(a){return[].indexOf(a)!==-1?true:false},getNavigatorLang:function(){return Redirect.translateLang(navigator.language)},translateLang:function(a){if(a=="en"||a.indexOf("en-")>=0){return"en"}else{if(a=="br"||a=="pt"||a.indexOf("pt-")>=0){return"br"}else{if(a=="zh-TW"){return"tw"}else{if(a=="cn"||a.indexOf("zh")>=0||a.indexOf("cn-")>=0||a.indexOf("zh-")>=0){return"cn"}else{if(a=="ar"||a.indexOf("ar-")>=0){return"ar"}else{if(a=="jp"||a.indexOf("jp-")>=0||a=="ja"||a.indexOf("ja-")>=0){return"jp"}else{if(a=="es"||a.indexOf("es-")>=0){return"es"}else{if(a=="ru"||a.indexOf("ru-")>=0){return"ru"}else{if(a=="in"||a.indexOf("in-")>=0){return"in"}else{if(a=="id"||a.indexOf("id-")>=0){return"id"}else{if(a=="it"||a.indexOf("it-")>=0){return"it"}else{if(a=="nl"||a.indexOf("nl-")>=0){return"nl"}else{if(a=="pl"||a.indexOf("pl-")>=0){return"pl"}else{if(a=='de'||a.indexOf('de-')>=0){return "de"}else{if(a=='vi'||a.indexOf('vi-')>=0){return "vn"}else{if(a=='fr'||a.indexOf('fr-') >=0){return "fr"}else{if(a=='tr'||a.indexOf('tr-') >=0){return "tr"}else{if(a=='ko'||a.indexOf('ko-') >=0){return "kr"}else{return "en"}}}}}}}}}}}}}}}}}}},check:function(){var b=Redirect.getLangCookie();if(!b){if(!Redirect.isMainURL()){Redirect.setLangCookie(Redirect.lang())}else{var a=Redirect.getNavigatorLang();if(Redirect.isBetaLang(a)){Redirect.isShowLangTip=true;Redirect.langGoll=a;Redirect.langGoUrl=Redirect.getRedirectUrl(a)}else{Redirect.setLangCookie(a);Redirect.run(Redirect.getLangCookie())}}}else{if(b==="menu"){Redirect.setLangCookie(Redirect.lang())}else{if(Redirect.isMainURL()){Redirect.run(b)}}}},run:function(a){if(a&&a!=="en"){location.href=Redirect.getRedirectUrl(a)}}};
+            Redirect.check();
+            window.policy_review = {effective:'20180525',isReview:function(){return getCookie("apkpure__policy_review") != policy_review.effective},setReview:function (){setCookie("apkpure__policy_review",policy_review.effective,300,"apkpure.com");document.getElementById('policy-info').style.display='none'}};
+        })();
+    </script>
+    <link rel="shortcut icon" href="https://apkpure.com/favicon_v2.ico"/>
+    <link rel="preconnect" href="//a.apkpure.com">
+    <link rel="dns-prefetch" href="//a.apkpure.com">
+    <link rel="preconnect" href="//i.apkpure.com">
+    <link rel="dns-prefetch" href="//i.apkpure.com">
+    <link rel="preconnect" href="//image.winudf.com">
+    <link rel="dns-prefetch" href="//image.winudf.com">
+    <link rel="preconnect" href="//static.apkpure.com">
+    <link rel="dns-prefetch" href="//static.apkpure.com">
+    <link rel="preconnect" href="//download.apkpure.com">
+    <link rel="dns-prefetch" href="//download.apkpure.com">
+    <link rel="preconnect" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="preconnect" href="//ssl.google-analytics.com">
+    <link rel="dns-prefetch" href="//ssl.google-analytics.com">
+    <link rel="preconnect" href="//pagead2.googlesyndication.com">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+    <link rel="preconnect" href="//s7.addthis.com">
+    <link rel="dns-prefetch" href="//s7.addthis.com">
+    <style> blockquote,body,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,hr,input,legend,li,ol,p,pre,td,textarea,th,ul{margin:0;padding:0}body{font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:14px;color:#666;line-height:18px;z-index:-10000;min-width:1043px;background:#f2f5f9}input[type="button"],input[type="submit"],input[type="reset"],input[type="file"]::-webkit-file-upload-button,button{border-radius:0}a{color:#00A6ED;text-decoration:none}a:hover{color:#00b6ff}li{list-style:none}img{vertical-align:middle;border:0;color:#ccc}input,button,select,textarea{outline:none}.floatl{float:left !important}.floatr{float:right !important}.mt-3{margin-top:3px}.timezone span{display:none}.browseerror{width:100%;background:#f2dede;color:#a94442;font-size:16px;line-height:50px;text-align:center}.clear{clear:both;overflow:hidden}.main{width:1200px;margin:0 auto}.left{float:left;width:850px}.right{float:right;width:330px}.header{height:70px;width:auto;background:#fdfdfd;border-bottom:1px solid #e2e2e3}.head{width:1200px;height:70px;margin:0 auto}.logo{float:left;width:180px;height:70px;line-height:70px;font-size:30px}.logo a{color:#575757}.logo a:hover{color:#24cd77}.logo a span{font-weight:300}.logo a img{margin-top:-6px}.sublist{padding:15px}.banner{background:url("https://static.apkpure.com/www/static/imgs/bannerbg1.jpg") center no-repeat;width:auto;height:495px}.index-so-box .formsearch .ss,.search-results .formsearch .ss,.banner-search .formsearch .ss,.top-search .formsearch .ss{-webkit-animation-duration:.75s;animation-duration:.75s;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}.top-search{border-left:1px solid #f4f4f4;border-right:1px solid #f4f4f4;height:50px;padding:0 10px;padding-top:17px}@keyframes bgShakeTop{from,to{background-position:center 3px}25%{background-position:5.5px center}50%{background-position:center 6px}75%{background-position:2.5px center}}.top-search .formsearch .ss{-webkit-animation-name:bgShakeTop;animation-name:bgShakeTop}.top-search form{width:170px;height:36px;position:relative}.top-search .search-left{width:168px;height:31px;background:#fff;position:absolute;left:0;top:0}.top-search input{border:0}.top-search .search-left input{width:133px;height:31px;display:block;overflow:hidden;line-height:25px;font-size:14px;font-weight:normal;padding-left:5px;padding-right:30px;border:1px solid #E8E8E8;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.top-search .search-right{position:absolute;width:30px;height:31px;right:0;top:0}.top-search .search-right input{width:30px;height:31px;display:block;background:url("https://static.apkpure.com/www/static/imgs/search1.png") no-repeat center center;cursor:pointer}.top-search .twitter-typeahead{position:absolute !important;top:0;left:0}.top-search .tt-hint{color:#999 !important}.top-search .tt-menu{background-color:#FFFFFF;border:1px solid rgba(0,0,0,0.2);border-radius:5px;box-shadow:0 5px 10px rgba(0,0,0,0.2);margin-top:6px;padding:8px 0;width:100%}.top-search .tt-suggestion{font-size:14px;line-height:20px;padding:3px 20px;text-transform:none !important;font-weight:normal !important;word-break:break-all}.top-search .tt-suggestion:hover{cursor:pointer;color:#fff;background-color:#24cd77}.top-search .tt-suggestion.tt-cursor{background-color:#24cd77;color:#FFFFFF}.top-menu{float:right}.top-menu a{display:block;line-height:inherit;cursor:pointer;padding:0 15px 0 40px;color:#666}.nav-user-img{border:2px solid #fff;background:#fff;border-radius:50%}.nav-user-info{width:180px;text-align:center;position:relative;line-height:25px;padding:21px 18px 16px}.nav-user-info a{padding:0;display:initial}.nav-user-info a.logout{position:absolute;top:18px;right:18px;font-size:13px;color:#9a9a9a;cursor:pointer;z-index:5;height:21px;line-height:21px;font-weight:normal}.nav-user-info a.logout:hover{color:#24cd77}.nav-user-info img{border-radius:50%}.nav-user-name{margin-top:7px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.nav-user-name a:hover{color:#24cd77}.nav_menu{line-height:68px;height:68px;font-weight:600;text-transform:uppercase;font-size:15px}.nav_menu .flag{margin-top:-3px}.nav_menu-item{display:block;position:relative;float:right;border-top:2px solid #fafafa}.nav_menu-item.on{background:#f5f5f5;border-top:2px solid #f5f5f5}.nav_menu-item:hover{background:#f5f5f5;border-top:2px solid #24cd77}.nav_menu-item:hover .nav_submenu{display:block}.nav_menu-item .nav-x{background:url("https://static.apkpure.com/www/static/imgs/xapkicon.png") 8px 24px no-repeat;padding-left:47px}.nav_menu-item .nav-n{background:url("https://static.apkpure.com/www/static/imgs/newicon.png") 8px 20px no-repeat}.nav_menu-item .nav-g,.nav_menu-item .nav-a,.nav_menu-item .nav-t,.nav_menu-item .nav-p{background:url("https://static.apkpure.com/www/static/imgs/indexicon_v2.png") no-repeat}.nav_menu-item .nav-g{background-position:8px -68px;padding-left:46px}.nav_menu-item .nav-a{background-position:8px 0;padding-left:43px}.nav_menu-item .nav-t{background-position:3px -203px}.nav_menu-item .nav-p{background-position:3px -134px}.nav_menu-item .nav-l{padding:0 15px 0 15px}.nav_menu-item .nav-l img{margin-top:-3px}.nav_menu-item .nav-appx{background:url("https://static.apkpure.com/www/static/imgs/appxicon.png") 8px 14px no-repeat;color:#F77649;text-transform:none !important}.nav_submenu{text-transform:none;display:none;position:absolute;top:68px;left:0;overflow:hidden;background:#fff;border:1px solid #e8e8e8;z-index:999999}.nav_submenu-item{height:auto}.menu_body{display:block;overflow:hidden;padding:5px 0}.menu_body a{display:block;white-space:nowrap;background:none;padding:0 30px;height:42px;line-height:42px;color:#555;font-weight:400}.menu_body a:hover{color:#fff;background-color:#24cd77}.menu_body a.h{color:#fff;background:#24cd77;margin-top:5px;text-align:center}.nav_submenu-r{left:auto;right:0}.nav_lang{width:360px;direction:ltr}.nav_lang .menu_body ul li{float:left}.nav_lang .menu_body ul li:not(:last-child){width:50%}.nav_lang .menu_body ul li:last-child{width:100%}.locale-change:hover{background:transparent}.locale-change .flag{margin-right:8px}.locale-change .beta{display:inline-block;height:16px;line-height:16px;margin-left:8px;background:#F77E13;color:#fff;font-size:12px;font-style:normal;padding:0 4px;border-radius:2px}.locale-change .flag-icon{padding-left:60px}.locale-change .flag-country{background:url("https://static.apkpure.com/www/static/imgs/lang_flag_v4.png") no-repeat;background-size:20px 1175px}.locale-change .nav-l{padding-left:45px}.locale-change .flag_country_br{background-position:30px 10px}.locale-change .flag_country_h_br{background-position:17px 24px}.locale-change .flag_country_cn{background-position:30px -57.33333px}.locale-change .flag_country_h_cn{background-position:17px -44px}.locale-change .flag_country_es{background-position:30px -125.33333px}.locale-change .flag_country_h_es{background-position:17px -112px}.locale-change .flag_country_id{background-position:30px -193.33333px}.locale-change .flag_country_h_id{background-position:17px -180px}.locale-change .flag_country_in{background-position:30px -261.33333px}.locale-change .flag_country_h_in{background-position:17px -248px}.locale-change .flag_country_it{background-position:30px -329.33333px}.locale-change .flag_country_h_it{background-position:17px -316px}.locale-change .flag_country_jp{background-position:30px -397.33333px}.locale-change .flag_country_h_jp{background-position:17px -384px}.locale-change .flag_country_kr{background-position:30px -465.33333px}.locale-change .flag_country_h_kr{background-position:17px -452px}.locale-change .flag_country_nl{background-position:30px -533.33333px}.locale-change .flag_country_h_nl{background-position:17px -520px}.locale-change .flag_country_pl{background-position:30px -601.33333px}.locale-change .flag_country_h_pl{background-position:17px -588px}.locale-change .flag_country_ru{background-position:30px -669.33333px}.locale-change .flag_country_h_ru{background-position:17px -656px}.locale-change .flag_country_sa{background-position:30px -737.33333px}.locale-change .flag_country_h_ar{background-position:17px -724px}.locale-change .flag_country_tw{background-position:30px -805.33333px}.locale-change .flag_country_h_tw{background-position:17px -792px}.locale-change .flag_country_us{background-position:30px -873.33333px}.locale-change .flag_country_h_en{background-position:17px -860px}.locale-change .flag_country_de{background-position:30px -941.33333px}.locale-change .flag_country_h_de{background-position:17px -928px}.locale-change .flag_country_fr{background-position:30px -1009.33333px}.locale-change .flag_country_h_fr{background-position:17px -996px}.locale-change .flag_country_vn{background-position:30px -1077.33333px}.locale-change .flag_country_h_vn{background-position:17px -1064px}.locale-change .flag_country_tr{background-position:30px -1145.33333px}.locale-change .flag_country_h_tr{background-position:17px -1132px}.ad-right{position:relative;margin:0 auto 20px auto;width:300px;height:250px;overflow:hidden}.ad-right iframe{border:0}.ad-right-600{position:relative;margin:0 auto 20px auto;width:300px;height:600px;overflow:hidden}.ad-right-600 iframe{border:0}.ad-right-90{position:relative;margin:0 auto 20px auto;width:300px;height:90px;overflow:hidden}.ad-right-90 iframe{border:0}.ad-left{margin:0 auto 20px auto;position:relative;width:728px;height:90px;overflow:hidden}.ad-left iframe{border:0}.a_d-left{margin:0 auto 20px auto;position:relative;width:728px;height:90px;overflow:hidden}.a_d-left iframe{border:0}.ad-center{margin:0 auto 20px auto;position:relative;width:970px;height:90px;overflow:hidden}.ad-center iframe{border:0}.ad-right-img{position:relative;margin:0 auto 20px auto;width:300px;overflow:hidden}.ad-right-img img{width:300px}.ad-right2{position:relative;margin:0 auto 20px auto}.ad-down-img{width:640px;margin:0 auto}.ad-down-img img{width:640px}.ad-down-side{padding:15px 15px 15px 0;width:300px;height:250px}.ad-box-auto{overflow:hidden;text-align:center;margin-bottom:20px;position:relative;background:#EEF1F5}.box{background:#fff;width:auto;box-shadow:0 2px 3px 0 rgba(0,0,0,0.15);margin-bottom:20px}.box .title{background:#fbfbfb;border-bottom:1px solid #e8e8e8;height:55px;line-height:55px;color:#666;font-size:18px;padding:0px 10px;font-weight:400;position:relative}.box .title h1{font-size:18px;font-weight:400;float:left}.box .title a{color:#666;text-decoration:none}.box .crumb a{display:inline-block}.box .title a:hover{color:#00A6ED}.box .title .more{position:absolute;z-index:1;right:10px;top:15px;height:20px;line-height:20px;text-align:right}.box .title .more a{color:#666;font-size:14px}.box .title .more a:hover{color:#00A6ED}.box .title .tit{font-size:15px;line-height:20px;height:55px;padding-right:45px;vertical-align:middle;display:table-cell}.box .title .smalltit{font-size:14px;color:#888}.box .tlong{height:auto;overflow:hidden}.box .requpdate{position:absolute;right:13px;top:13px;margin:0 !important}.box .qrcode{position:absolute;right:10px;top:10px;width:36px;height:36px;display:block;overflow:hidden;cursor:zoom-in;line-height:normal}.box .qrcode.hover{width:150px;height:150px;top:10px;cursor:zoom-out;box-shadow:5px 5px 5px 0px lightgray}.box .qrcode.hover #qrnil{display:none}.box .qrcode.hover #qrcode{display:block}.box .qrcode .zoom{position:absolute;right:0;bottom:0;width:16px;height:16px;background:url("https://static.apkpure.com/www/static/imgs/zoom_in.gif") center center no-repeat;z-index:999}.box .qrcode .zoom.out{background:none}.box .qrcode .ico{width:30px;height:30px;left:60px;top:60px;position:absolute;z-index:999}.box .qrcode .ico img{width:30px;height:30px;border-radius:50%;border:2px solid #fff;background:#fff}.top-list{margin:0 auto;overflow:hidden}.top-list li{width:25%;float:left;position:relative}.top-list li.w33{width:33.33% !important}.top-list li.w5{width:50% !important}.top-list dl{display:block;position:relative;height:85px;padding-top:10px;overflow:hidden}.top-list li .item-sort{width:36px;height:36px;position:absolute;top:0;left:0}.top-list li .item-sort .bg{position:absolute;top:0;left:0;width:0;height:0;border-top:36px solid #828588;border-right:36px solid transparent;opacity:0.85;filter:alpha(opacity=85)}.top-list li .item-sort .redbg{border-top:36px solid #FFA200;opacity:1;filter:alpha(opacity=100)}.top-list li .item-sort .text{position:absolute;color:#fff;top:0;left:0;width:21px;height:21px;line-height:21px;font-weight:600;font-size:14px;display:block;text-align:center;font-style:italic}.top-list dl dt{float:left;width:95px;height:75px;text-align:center}.top-list dl dt img{width:75px}.top-list dl dd{color:#666;overflow:hidden;line-height:22px;font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.top-list dl dd a{color:#666;font-size:13px;display:block;line-height:24px;height:24px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.top-list dl dd .stars{margin:5px 0}.top-list dl .title-dd{padding-right:10px}.top-list dl .title-dd a{font-size:14px;font-weight:600;line-height:24px}.top-list li:hover{background:#f5f7fa}.top-list li:hover a{color:#00A6ED}.top-list li:hover .down{bottom:10px;-webkit-transition:all 0.1s ease;-moz-transition:all 0.1s ease;transition:all 0.1s ease}.top-list dl .down{position:absolute;bottom:-30px;left:94px;z-index:1}.top-list dl .down a{display:block;min-width:100px;padding:0 5px;color:#FFF;text-align:center;height:24px;line-height:24px;background:#24cd77}.top-list dl .down a:hover{background:#24dc83;color:#fff}.top-list li.w5 dl dd{padding-right:90px}.top-list li.w5 dl dd.price{position:absolute;top:10px;bottom:10px;right:10px;display:flex;flex-direction:column;padding-right:0;justify-content:center;align-items:flex-end}.top-list .price span{text-align:right}.top-list .price .price-new{color:#111;font-weight:500;font-size:16px}.top-list .price .price-old{color:#666;font-size:12px;text-decoration:line-through}.top-list .price .price-disco{font-weight:700;line-height:24px;padding:0 6px;color:white;background:#24cd77}.top-list-s li a{display:block}.top-list-s li .title-dd{font-size:14px;font-weight:600;line-height:24px}.top-list-s li a:hover .title-dd{color:#00A6ED}.facebook-like{height:90px;margin-bottom:20px;background:#fff;width:auto;overflow:hidden;text-align:center;box-shadow:0 2px 3px 0 rgba(0,0,0,0.15)}.facebook-like .social-network{padding:16px 0 30px}.facebook-like .network{background-image:url("https://static.apkpure.com/www/static/imgs/user_v3.png");background-size:40px;width:36px;height:36px;display:inline-block;margin:0 30px}.facebook-like .network span{position:absolute;top:42px}.facebook-like .social-network a{position:relative}.facebook-like .fb{background-position:0 0}.facebook-like .fb span{color:#3b57a0;left:-13px}.facebook-like .tw{background-position:0 -36px}.facebook-like .tw span{color:#39abeb;left:-2px}.facebook-like .glp{background-position:0 -402px}.facebook-like .glp span{color:#E71B30;left:-10px}.facebook-like .vk{background-position:-3px -304px;border-radius:50%}.facebook-like .vk span{color:#4276A5;left:10px}.facebook-like .ok_ru{background-position:-2px -355px;background-color:#F6822A;border-radius:50%}.facebook-like .ok_ru span{color:#F6822A;left:-4px}.bread-crumbs span{font-size:14px;color:#24cd77}.bread-crumbs a{font-size:14px;color:#888}.bread-crumbs a:hover{color:#24cd77}.stars{background:url("https://static.apkpure.com/www/static/imgs/stars_fill.svg") repeat-x;height:15px;width:75px;clear:both;direction:ltr;position:relative}.stars span.score{display:block;background:url("https://static.apkpure.com/www/static/imgs/stars.svg") repeat-x;height:15px;width:75px}.stars span.star{position:absolute;left:78px;line-height:15px;top:1px;color:#fa8b16;font-size:13px}.loadmore{display:block;background:#fff;color:#777;text-decoration:none;width:200px;margin:0 auto 20px auto;text-align:center;font-size:16px;padding:8px 0;box-shadow:0 2px 3px 0 rgba(0,0,0,0.15)}.loadmore:hover{background:#f9f9f9}.paging{text-align:center;margin:0 auto 20px auto}.paging li{display:inline-block;margin:0 2px}.paging li a{display:inline-block;text-align:center;width:30px;height:30px;line-height:30px;text-decoration:none;background:#fff;color:#777;box-shadow:0 1px 2px 0 rgba(0,0,0,0.15)}.paging li.active a{background:#24cd77;color:#fff}.paging li.active a:hover{background:#24cd77;color:#fff}.paging li a:hover{background:#f5f5f5}#ad-aegon-side{position:fixed;z-index:666666;right:5px;bottom:5px;width:110px;text-align:center;background:#fff;padding:5px;border:#e2e2e3 1px solid;box-shadow:0 2px 3px 0 rgba(0,0,0,0.15);-webkit-transition:right 0.8s;-moz-transition:right 0.8s;-o-transition:right 0.8s;-ms-transition:right 0.8s;transition:right 0.8s}#ad-aegon-side.move{right:0}#ad-aegon-side .qr img{width:110px;height:110px}#ad-aegon-side a{color:#222;text-decoration:none;font-size:14px;line-height:14px;text-align:center;display:block}#ad-aegon-side .down{line-height:16px}#ad-aegon-side .ico{width:27px;height:27px;display:block;position:absolute;top:46px;left:46px}#ad-aegon-side .ico img{border-radius:50%;border:2px solid #fff;background:#fff}#policy-info{z-index:99999999;border-top:1px solid #1e435e;font-size:14px;position:fixed;bottom:0;left:0;right:0;padding:20px;line-height:24px;background:#607d8b;color:#fff;display:none}#policy-info .main{position:relative}#policy-info a{color:#fff;text-decoration:underline}#policy-info .btn{display:inline-block;position:absolute;right:0;top:10px}#policy-info .btn a{padding:8px;background:#fff;border:1px solid #fff;color:#333;border-radius:3px;text-decoration:none;margin-left:10px}#policy-info .btn a:hover{text-decoration:none}.choice-wrap{overflow:hidden}.choice-wrap a{color:#666}.choice-wrap i{background:url("https://static.apkpure.com/www/static/imgs/stars.svg") repeat-x;display:inline-block;height:15px;background-size:15px;width:15px;top:2px;position:relative}.choice-wrap ul li a{display:block}.choice-wrap ul li .wrap{padding:13px 0;margin:0 15px;border-bottom:1px solid #f2f2f2}.choice-wrap ul li .wrap::after{content:"";clear:both;display:table}.choice-wrap ul li:last-child .wrap{border-bottom:0}.choice-wrap ul li .banner{width:100%;height:161px;overflow:hidden;background:#eee url("https://static.apkpure.com/www/static/imgs/lazy.png") no-repeat center center}.choice-wrap ul li .banner img{width:100%}.choice-wrap ul li .icon{float:left;margin-right:10px}.choice-wrap ul li .icon img{height:60px;width:60px;display:block;border-radius:4px}.choice-wrap ul li .info{overflow:hidden;margin-top:8px}.choice-wrap ul li .tit{line-height:19px;font-weight:600;padding-right:10px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.choice-wrap ul li .des{margin-top:8px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.choice-wrap ul li .wrap.banner-wrap{position:relative;padding-top:0}.choice-wrap ul li .wrap.banner-wrap .icon{margin-top:-35px}.choice-wrap ul li .wrap.banner-wrap .des{margin-top:15px}.choice{overflow:inherit;height:auto}.choice ul{margin-left:-15px;display:block}.choice li{width:33.3333%;float:left;margin-bottom:15px}.choice ul li .banner{height:auto !important}.choice ul li .tit{font-size:16px}.choice ul li .banner .lazybg{background-size:100%;background-position:center;width:100%;height:0;padding-top:48.828125%;background-repeat:no-repeat}.choice ul li .wrap.banner-wrap .des{height:36px;margin-top:10px;white-space:unset;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2}.choice li a{background:white;margin-left:15px;box-shadow:0 2px 3px 0 rgba(0,0,0,0.15);transition:all .2s linear}.choice li a:hover{-webkit-box-shadow:0 15px 30px rgba(0,0,0,0.1);box-shadow:0 15px 30px rgba(0,0,0,0.1);transform:translate3d(0, -3px, 0)}.footer{width:auto;color:#777}.footer-list{width:100%;background:#fdfdfd;border-top:1px solid #e2e2e3;border-bottom:1px solid #e2e2e3}.footer-list .list{width:270px;float:left;padding:20px 15px 20px 15px}.footer-list .list p{font-size:18px;line-height:24px;padding-bottom:10px;color:#333}.footer-list .list ul{padding-left:16px}.footer-list .list ul li{line-height:20px;list-style:disc;padding-bottom:5px;font-size:12px}.footer-list .list ul li a{color:#666}.footer-list .list ul li a:hover{color:#00A6ED}.footer .follow{padding-left:3px !important}.footer .follow li{list-style:none !important}.footer .follow li a{background-image:url("https://static.apkpure.com/www/static/imgs/user_v3.png");background-size:22px;width:20px;height:20px;display:inline-block}.footer .follow li a span{margin-left:26px}.footer .follow li a.fb{background-position:0 0}.footer .follow li a.tw{background-position:0 -20px}.footer .follow li a.glp{background-position:0 -221px}.footer .follow li a.vk{background-position:-1px -167px;border-radius:50%}.footer .follow li a.ok_ru{background-position:-1px -195px;background-color:#F6822A;border-radius:50%}.copyright{line-height:50px;text-align:center;background:#f2f5f9}.share-hide{display:none}.share-menu{visibility:hidden;opacity:0}.share-counter{line-height:32px;font-size:11.4px;cursor:pointer;font-family:helvetica,arial,sans-serif;font-weight:700;text-transform:uppercase;display:inline-block;position:relative;vertical-align:top;height:auto;margin:0 5px;padding:0 6px;left:-1px;background:#ebebeb;color:#32363b;transition:all .2s ease}.share-counter:after{top:30%;left:-4px;content:"";position:absolute;border-width:5px 8px 5px 0;border-style:solid;border-color:transparent #ebebeb transparent transparent;display:block;width:0;height:0}.share-side-counter{display:inline-block;width:48px;text-align:center;overflow-wrap:break-word}.share-side-count{font-size:17px;line-height:1.25em;color:#222222}.share-side-text{font-size:9px;line-height:1.25em;color:#222222;letter-spacing:1px}.cmt-wrap{position:relative;min-height:150px}.cmt-no-posts{color:#24cd77;line-height:107px;text-align:center;display:none}.cmt-loading-text{position:absolute;left:0;top:0;bottom:0;right:0;text-align:center;height:40px;line-height:40px;margin:auto auto 10px}.fancybox-slide--iframe .fancybox-content{width:900px !important}.fancybox-container{z-index:999999 !important}.ar_fix .floatl{float:right !important}.ar_fix .floatr{float:left !important}.ar_fix .left{float:right}.ar_fix .right{float:left}.ar_fix .logo{float:right}.ar_fix .top-menu{float:left}.ar_fix .nav_menu-item{float:left}.ar_fix .top-list li{float:right}.ar_fix .top-list dl dt{float:right}.ar_fix .top-list dl .title-dd{padding-right:0;padding-left:10px}.ar_fix .top-list dl .down{right:94px;left:auto}.ar_fix .top-list li.w5 dl dd{padding-left:90px;padding-right:0}.ar_fix .top-list li.w5 dl dd.price{right:auto;left:10px;padding-left:0}.ar_fix .top-list .price span{text-align:left}.ar_fix #ad-aegon-side{left:5px;right:auto}.ar_fix .box .qrcode{left:10px;right:auto}.ar_fix .box .title h1{float:right}.ar_fix .box .title .tit{padding-right:0;padding-left:45px}.ar_fix .box .title .more{left:10px;right:auto}.ar_fix .box .requpdate{left:13px;right:auto}.ar_fix .footer-list .list{float:right}.ar_fix .footer .follow li a span{margin-left:0;margin-right:26px}.ar_fix .ad-down-side{padding:15px 0 15px 15px}.ar_fix .nav_submenu-r{left:0;right:auto}.ar_fix .locale-change .flag{margin-right:0;margin-left:8px}.ar_fix .locale-change .beta{margin-left:0;margin-right:8px}.ar_fix .mfp-close{left:0 !important;right:auto !important}.ar_fix .nav-user-info a{right:auto;left:18px}.ar_fix .stars span.star{right:78px;left:auto}.ar_fix .nav_lang .menu_body ul li{float:right}.ar_fix .locale-change .flag_country_tr{background-position:130px -1145.33333px}.ar_fix .locale-change .flag_country_fr{background-position:130px -1009.33333px}.ar_fix .locale-change .flag_country_vn{background-position:130px -1077.33333px}.ar_fix .locale-change .flag_country_de{background-position:130px -941.33333px}.ar_fix .locale-change .flag_country_us{background-position:130px -873.33333px}.ar_fix .locale-change .flag_country_tw{background-position:130px -805.33333px}.ar_fix .locale-change .flag_country_sa{background-position:130px -737.33333px}.ar_fix .locale-change .flag_country_ru{background-position:130px -669.33333px}.ar_fix .locale-change .flag_country_pl{background-position:130px -601.33333px}.ar_fix .locale-change .flag_country_nl{background-position:130px -533.33333px}.ar_fix .locale-change .flag_country_kr{background-position:130px -465.33333px}.ar_fix .locale-change .flag_country_jp{background-position:130px -397.33333px}.ar_fix .locale-change .flag_country_it{background-position:130px -329.33333px}.ar_fix .locale-change .flag_country_in{background-position:130px -261.33333px}.ar_fix .locale-change .flag_country_id{background-position:130px -193.33333px}.ar_fix .locale-change .flag_country_es{background-position:130px -125.33333px}.ar_fix .locale-change .flag_country_cn{background-position:130px -57.33333px}.ar_fix .locale-change .flag_country_br{background-position:130px 10px}.ar_fix .locale-change .nav-l{padding-right:45px;padding-left:15px}.ar_fix .locale-change .flag_country_h_ar{background-position:45px -722px}.ar_fix .locale-change .flag-icon{padding-right:60px;padding-left:30px}.ar_fix #policy-info .btn{left:0;right:auto}.ar_fix .choice-wrap ul li .icon{float:right;margin-right:0;margin-left:10px}.ar_fix .choice-wrap ul li .tit{padding-left:10px;padding-right:0}@media only screen and (max-width: 1300px){body{min-width:1048px}.main,.head{width:1048px}.left{width:728px}.right{width:300px}.footer-list .list{width:230px}.top-search form{width:110px}.top-search .search-left{width:108px}.top-search .search-left input{width:73px}.box-cp div{width:500px}.choice-wrap ul li .banner{height:146.5px}.choice-wrap ul li .wrap{padding:15px 0}.choice-wrap ul li .wrap.banner-wrap .des{margin-top:20px}}
+ </style>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61066224-5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-61066224-5', {'sample_rate': 10,'use_amp_client_id': true});
+    </script>
+    
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "name": "APKPure",
+            "url": "https://apkpure.com",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://apkpure.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Corporation",
+            "name": "APKPure",
+            "url": "https://apkpure.com",
+            "logo": "https://static.apkpure.com/www/static/imgs/logo_new.png",
+            "sameAs": [
+                "https://www.facebook.com/apkpure",
+                "https://twitter.com/apkpure",
+                "https://vk.com/apkpurevk",
+                "https://www.youtube.com/channel/UCbCOKdnt1yYk4S3I4a034XQ"
+            ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Apps",
+                    "item": "https://apkpure.com/app"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Shopping",
+                    "item": "https://apkpure.com/shopping"
+                }
+            ]
+        }
+    </script>
+    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
+    <style>.day_list{padding:15px}.day_list li{width:auto;border-bottom:1px solid #f2f2f2;clear:both;height:65px;padding:5px 5px 10px}.day_list_number{float:left;width:20px;height:20px;background:#e7e7e7;margin-top:27px;text-align:center;line-height:20px;font-size:14px;font-weight:600}.day_list li:nth-child(1) .day_list_number{background:url("https://static.apkpure.com/www/static/imgs/day_list_number.png") top center;color:#FFF;margin-top:25px;height:24px}.day_list li:nth-child(2) .day_list_number{background:url("https://static.apkpure.com/www/static/imgs/day_list_number.png") center;color:#FFF;margin-top:25px;height:24px}.day_list li:nth-child(3) .day_list_number{background:url("https://static.apkpure.com/www/static/imgs/day_list_number.png") bottom center;color:#FFF;margin-top:25px;height:24px}.day_list dl{display:block;position:relative;height:65px;overflow:hidden;width:270px;float:right}.day_list dl dt{float:left;width:85px;height:75px;text-align:center}.day_list dl dt img{width:60px;padding-top:5px}.day_list dl dd{color:#666;overflow:hidden;line-height:22px;font-size:13px;text-overflow:ellipsis;white-space:nowrap}.day_list dl dd a{color:#666;font-size:13px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.day_list dl .title-dd a{font-size:14px;font-weight:600}.day_list li:hover{background:#f5f7fa}.day_list li:hover .title-dd a{color:#00A6ED}.day_list li:hover .down{bottom:0px;-webkit-transition:all 0.1s ease;-moz-transition:all 0.1s ease;transition:all 0.1s ease}.day_list dl .down{position:absolute;bottom:-30px;left:85px;z-index:1}.day_list dl .down a{display:block;min-width:100px;padding:0 5px;color:#FFF;text-align:center;height:24px;line-height:24px;background:#24cd77}.day_list dl .down a:hover{background:#24dc83;color:#fff}.day_list_more{padding:17px 0 2px 0;text-align:center}.day_list_more a{color:#666}.day_list_more a:hover{color:#00A6ED}.day_list-s li{padding:0;height:80px}.day_list-s li a{display:block;padding:5px 5px 10px;overflow:hidden;color:#666}.day_list-s li a:hover{background:#f5f7fa}.day_list-s li a:hover .title-dd{color:#00A6ED}.day_list-s dl .title-dd{font-size:14px;font-weight:600}.ar_fix .day_list_number{float:right}.ar_fix .day_list dl dt{float:right}.ar_fix .day_list dl .down{left:auto;right:85px}@media only screen and (max-width: 1300px){.day_list dl{width:240px}}.index-left-ul li{border-bottom:1px solid #eee;padding:10px;clear:both;position:relative;overflow:hidden}.index-left-ul li:last-child{border-bottom:0}.index-left-ul li .app-icon{float:left;width:70px}.index-left-ul li .app-icon img{width:70px}.index-left-ul li .app-text{float:right;width:230px;height:70px;line-height:21px;font-size:13px;overflow:hidden}.index-left-ul li .app-text p{padding:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-left-ul li .app-text .price-new{font-size:14px;padding-right:5px;color:#24cd77}.index-left-ul li .app-text .price-old{text-decoration:line-through}.index-left-ul li .app-text .app-text-title{font-size:14px;font-weight:600;overflow:hidden;height:21px}.index-left-ul li .app-text .app-text-title a{height:21px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-left-ul li .app-text a{color:#666}.index-left-ul li .app-text a:hover{color:#00A6ED}.index-left-ul li .item-sort{width:36px;height:36px;position:absolute;top:0;left:0}.index-left-ul li .item-sort .bg{position:absolute;top:0;left:0;width:0;height:0;border-top:36px solid #999;border-right:36px solid transparent;opacity:0.85;filter:alpha(opacity=85)}.index-left-ul li .item-sort .redbg{border-top:36px solid #FA8B15;opacity:0.9;filter:alpha(opacity=90)}.index-left-ul li .item-sort .text{position:absolute;color:#fff;top:0;left:0;width:21px;height:21px;line-height:21px;font-weight:600;font-size:14px;display:block;text-align:center;font-style:italic}.index-left-ul li div .down{padding-top:3px}.index-left-ul li div .down a{display:inline-block;min-width:90px;padding:0 5px;background:#efefef;height:22px;font-size:12px;line-height:22px;color:#666;text-align:center;border:1px solid #ccc}.index-left-ul li div .down a:hover{background:#eaeaea}.index-left-ul-s li{padding:0}.index-left-ul-s li a{display:block;padding:10px;overflow:hidden;color:#666}.index-left-ul-s li .app-text-developer{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.index-left-ul-s li a:hover{background:#f5f7fa}.index-left-ul-s li a:hover .app-text-title{color:#00A6ED}.ar_fix .index-left-ul li .app-icon{float:right}.ar_fix .index-left-ul li .app-text{float:left}.ar_fix .index-left-ul li .app-text .price-new{padding-right:0;padding-left:5px}@media only screen and (max-width: 1300px){.index-left-ul li .app-text{width:200px}}.tag{padding:20px}.tag h2{margin-bottom:15px;font-size:16px}.tag_list{overflow:hidden;line-height:20px}.tag_list li{margin:5px 8px 6px 0;padding:0;background-color:transparent;vertical-align:middle;display:inline-block}.tag_list li a{display:block;padding:4px 10px;border:1px solid #00A6ED;border-radius:4px;text-decoration:none;font-size:14px;color:#00A6ED}li.tag_add{background:url("https://static.apkpure.com/www/static/imgs/tag_add.png");width:28px;height:28px;margin:0;padding:0;cursor:pointer;border:1px solid #00A6ED;border-radius:4px;text-decoration:none;font-size:14px;color:#00A6ED}.ar_fix .tag_list li{margin:5px 0 6px 8px}.ver-info{display:none}.ver-info-top strong{font-size:18px}.ver-info-m{margin-top:20px;overflow:hidden;background:#F1F5FA;border:1px solid #e0e7f0;font-size:13px;padding:10px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;line-height:21px;color:#808285}.ver-info-m .down{color:#fff;background:#24cd77;padding:3px 18px;margin-top:10px;display:block;text-align:center;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;float:left;margin-right:10px}.ver-info-m .down:hover{background:#24dc83}.ver-info-m .down .fsize{display:inline-block;direction:ltr;margin-left:3px}.ver-info-m p{padding:0;margin:0;line-height:26px;word-wrap:break-word}.ver-whats-new{border:1px solid #e0e7f0;display:none;background:#FFFFFF;padding:10px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.ver-popup{position:relative;background:#FFF;padding:25px !important;width:auto;max-width:550px !important;margin:20px auto;border-radius:4px}.mfp-hide{display:none}.ar_fix .ver-info-m .down{float:right;margin-left:10px;margin-right:0}.ver-title{color:#666;height:55px;line-height:55px;font-weight:400;position:relative}.ver-title .tit{font-size:18px;line-height:20px;height:55px;padding-right:45px;vertical-align:middle;display:table-cell}.ver-title .more{position:absolute;z-index:1;right:0;top:18px;height:20px;line-height:20px;text-align:right}.ver-title .more a{color:#666;font-size:14px}.ver-title .more a:hover{color:#00A6ED}.ver{margin-bottom:5px}.ver-beta{margin-left:10px}.ver-wrap{margin-left:-10px}.ver-wrap>li{width:33.33333%;margin-bottom:15px;float:left}.ver-wrap>li>a{display:block;margin-left:10px}.ver-item{border-radius:6px;background:#ffffff;box-shadow:0 2px 3px 0 rgba(0,0,0,0.15);-webkit-transition:all .2s linear;transition:all .2s linear;height:140px;padding:15px;position:relative}.ver-item:hover{-webkit-box-shadow:0 15px 30px rgba(0,0,0,0.1);box-shadow:0 15px 30px rgba(0,0,0,0.1);-webkit-transform:translate3d(0, -1px, 0);transform:translate3d(0, -1px, 0)}.ver-item-n{margin-bottom:15px;padding-right:45px;color:#545454;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:block;font-weight:400;font-size:20px}.ver-item-a p{color:#888;margin-top:7px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;line-height:30px}.ver-item-a .update-on{margin-top:0}.ver-item-s{position:absolute;bottom:13px;left:15px;color:#545454}.ver-item-t{display:inline-block;border:solid 1px #fa8b16;color:#fa8b16;padding:0 5px;border-radius:4px}.ver-item-t.ver-apk{border-color:#24cd77;color:#24cd77}.ver-item-t.ver-xapk{border-color:#2e9cf2;color:#2e9cf2}.ver-item-m{position:absolute;top:10px;right:5px;z-index:20;padding:5px;width:20px;height:20px;background:url("https://static.apkpure.com/www/static/imgs/ver-more_v1.svg") no-repeat 5px 5px}.ver-item-d{position:absolute;bottom:10px;right:15px;z-index:20;width:25px;height:25px;background:url("https://static.apkpure.com/www/static/imgs/ver-down_v1.svg") no-repeat}.ver-item-v{border-top-right-radius:6px;border-bottom-left-radius:6px;position:absolute;top:0;right:0;text-align:center;background:#e7e7e7;line-height:16px;color:#828282;padding:2px 5px}.ver-item-v span{display:block;font-size:12px}.ver-item-v span.ver-n{font-size:16px}.ar_fix .ver-title .tit{padding-right:0;padding-left:45px}.ar_fix .ver-title .more{left:0;right:auto}.ar_fix .ver-item-n{padding-left:45px;padding-right:0}.ar_fix .ver-item-m{left:5px;right:auto}.ar_fix .ver-item-d{left:15px;right:auto}.ar_fix .ver-item-s{left:auto;right:15px}.ar_fix .ver-wrap>li{float:right}.addthis-menu{position:absolute;right:8px;top:12px}.addthis-custom span{display:none}.addthis-custom{cursor:pointer;display:block;padding:0 !important;width:32px !important;height:32px !important;border-radius:4px;background:url("https://static.apkpure.com/www/static/imgs/details_share.png") no-repeat center/18px 18px #FF8B2F}.ar_fix .addthis-menu{right:auto;left:8px}.details-how a{font-size:12px;margin-top:10px;color:#666;display:inline-block}.details-how a:hover{color:#00b6ff}#qrnil{display:block;background:url("https://static.apkpure.com/www/static/imgs/qrnil.png");width:36px;height:36px}#qrcode{display:none}.aegon-link{text-align:center;padding:12px 20px;line-height:20px;background:linear-gradient(to bottom, #fff 0%, #f8f8f8 47%, #f2f5f9 100%);border-top:1px solid #e8e8e8}.aegon-link a{color:#656565}.anchor-download{height:0}.anchor-download a{height:0;font-size:0}.details-share{margin-top:15px;margin-bottom:20px;height:32px}.title-like{margin-top:2.5px;font-size:24px;line-height:32px;color:#999;margin-bottom:10px}.title-like h1{font-size:30px;color:#333;display:inline;font-weight:normal}.title-like .right-share{float:left;margin-top:7px}.safe-link-version{text-decoration:none}.safe-link{text-align:center;padding:16px 20px;line-height:20px}.safe-link a{text-decoration:none;font-size:14px}.safe-link a:active{text-decoration:underline}.safe-link a img{margin-top:-3px}.safe-link strong{font-weight:normal}.ny-dl{padding:30px 25px;overflow:hidden;clear:both}.ny-dl dt{float:left;text-align:center}.ny-dl dt .icon{height:170px;width:170px}.ny-dl dt .icon img{width:170px}.ny-dl dd{margin-left:195px;overflow:hidden}.ny-dl dd h1{padding-top:0px}.details-rating{height:20px}.details-rating .stars{float:left;margin-top:2px}.details-rating .stars span,.details-rating .stars{background-size:17px;height:17px;width:85px}.details-rating .rating-info{float:left;font-size:13px;margin-left:5px;margin-top:3px}.details-rating .rating{color:#fa8b16}.details-rating .item{display:none}.details-delimiter{margin:0 5px}.details-to-bottom{display:inline-block}.details-share{text-align:center}.details-sdk{font-size:15px}.details-sdk span{color:#24cd77}.details-rating{margin:10px 0}.details-author{margin-bottom:10px}.details-author a{font-size:15px;color:#999}.details-author a:hover{color:#24cd77;font-size:15px}.details-author p,.details-sdk{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.ny-down{overflow:hidden}.ny-down a{float:left}.ny-down .da{display:inline-block;padding:0 30px;height:35px;line-height:35px;color:#fff;text-align:center;font-size:17px;background:#24cd77;margin:0 auto}.ny-down .da:hover{background:#24dc83}.ny-down .gp{display:block;padding:0 30px;height:35px;line-height:35px;color:#fff;text-align:center;font-size:18px;background:#555;margin:0 auto}.ny-down .gp:hover{background:#333}.ny-down .fsize{display:inline-block;direction:ltr;font-size:12px;vertical-align:bottom;margin-left:5px}.ny-down .safe{margin-top:9px;margin-left:8px}.ny-down .safe-ver{display:inline-block;overflow:hidden}.ny-down .ny-versions,.ny-down .ny-variants{border:solid 1px #24cd77;box-sizing:border-box;height:35px;line-height:33px;display:inline-block;padding:0 15px;text-align:center;color:#666;font-size:15px}.ny-down .ny-variants{margin:0 10px;border-color:#fa8b16;color:#fa8b16}.ny-down .ny-versions:hover{background:#f1fff1}.ny-down .ny-variants:hover{background:#fffef1}.ny-var .da{padding:0 20px}.ny-var .ny-versions,.ny-var .ny-variants{padding:0 10px}.ny-normal{margin-top:10px}.ny-normal a{color:#999}.ny-normal a:hover{color:#24cd77}.requestupdate img{margin-top:-3px;margin-left:3px}.requpdate{display:block;border:1px solid #ccc;color:#333;font-size:12px;font-weight:600;padding:0 10px 0 5px;height:26px;line-height:26px;margin:10px auto 0 auto;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.requpdate:hover{border-color:#bbb;background-color:#d9d9d9;background-image:-webkit-linear-gradient(#f8f8f8, #d9d9d9);background-image:linear-gradient(#f8f8f8, #d9d9d9)}.requpdate img{width:26px;height:26px}#describe{margin:20px 20px 0 20px;line-height:20px;height:200px;overflow:hidden;position:relative}#describe.describe-open{margin-bottom:10px;height:auto}#describe p{margin-bottom:10px}#describe h2,.describe-whatnew h2,.pre-register h2,.additional h2{margin-bottom:15px;font-size:16px}.describe{clear:both;height:auto}.content h1,.content h2,.content h3,.content h4,.content h5,.content h6{font-weight:normal;font-size:16px}.describe-whatnew{line-height:20px;margin:20px}.pre-register{padding:20px;line-height:20px}.pre-register p{margin-bottom:10px}.translate{position:relative}.translate .translate-btn{position:absolute;right:13px;top:13px;margin:0 !important;z-index:9}.translate-btn{display:block;border:1px solid #ccc;color:#333;font-size:12px;font-weight:600;padding:0 10px 0 5px;height:26px;line-height:26px;margin:10px auto 0 auto;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.translate-btn:hover{border-color:#bbb;background-color:#d9d9d9;background-image:-webkit-linear-gradient(#f8f8f8, #d9d9d9);background-image:linear-gradient(#f8f8f8, #d9d9d9)}.translate-btn img{width:26px;height:26px}.additional{padding:20px}.additional ul{width:100%;clear:both;overflow:hidden}.additional li{width:33.33%;float:left}.additional li:nth-child(n+4){margin-top:10px}.additional li p{padding-bottom:5px;font-size:12px}.additional li p strong{font-size:14px;font-weight:600}.showmore_content{position:relative;overflow:hidden;height:200px}.showmore_trigger{position:relative;display:none;margin:0 20px 20px 20px}.showmore_trigger span{cursor:pointer;line-height:30px;padding-right:15px;height:30px;display:inline-block;color:#00A6ED;text-decoration:none;background:url("https://static.apkpure.com/www/static/imgs/read-more.png") no-repeat right 13px}.showmore_trigger span.active{background-position:right -11px}.show-more-end{background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,255,255,0)), color-stop(100%, #fff));background-image:-webkit-linear-gradient(top, rgba(255,255,255,0), #fff);background:linear-gradient(to bottom, rgba(255,255,255,0), #fff);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#00ffffff',EndColorStr='#ffffff');top:-30px;height:30px;left:0;position:absolute;width:100%}.more-version{display:none}.show-more-version span{cursor:pointer;line-height:30px;height:30px;display:inline-block;padding-right:15px;color:#00A6ED;text-decoration:none;background:url("https://static.apkpure.com/www/static/imgs/read-more.png") no-repeat right 13px}.show-more-version span.active{background-position:right -11px}.twitter-share-button{text-decoration:none}.describe-img{padding:20px;direction:ltr}.describe-line{font-size:0;height:1px;background:#e8e8e8}#slide-box{position:relative;width:100%;height:370px}#slide-box ul{position:absolute;list-style:none}#slide-box a.det-pic-control{width:60px;height:60px;display:block;position:absolute;display:none;background:url("https://static.apkpure.com/www/static/imgs/slidebg.png") no-repeat}#slide-box #prev{background-position:left -62px;left:0px;top:145px}#slide-box #prev:hover{background-position:left -186px}#slide-box #next{background-position:left 0;right:0px;top:145px}#slide-box #next:hover{background-position:left -124px}#slide-box a.go{display:block}#slide-box .det-pic-out{overflow:hidden;overflow-x:scroll;position:relative;width:100%;height:370px}#slide-box .det-pic-out::-webkit-scrollbar{width:8px;height:8px}#slide-box .det-pic-out::-webkit-scrollbar-track{box-shadow:1px 1px 5px rgba(0,0,0,0.3) inset;border-radius:8px}#slide-box .det-pic-out::-webkit-scrollbar-thumb{background-color:#7A7A7A;border-radius:8px}#slide-box .det-pic-out::-webkit-scrollbar-thumb:hover{background-color:#525252}#slide-box li{white-space:nowrap}#slide-box li a{text-decoration:none;white-space:nowrap;padding-right:5px}#slide-box li a img{background:#f1f1f1}.details-tube{padding-right:0 !important;margin-right:5px;display:inline-block;vertical-align:middle;position:relative;width:550px;height:355px;background-position:center;background-repeat:no-repeat;background-size:cover;-moz-background-size:cover;-webkit-background-size:cover}.details-tube .tube{position:relative;-moz-transition:opacity 0.5s cubic-bezier(0, 0, 0.2, 1);-webkit-transition:opacity 0.5s cubic-bezier(0, 0, 0.2, 1);transition:opacity 0.5s cubic-bezier(0, 0, 0.2, 1);width:550px;height:355px}.details-tube .play{width:100%;height:100%;left:0;top:0;z-index:0;display:block;position:absolute;background-position:center;background-repeat:no-repeat}.mfp-hide{display:none}.blue-stack{display:inline-block;position:relative;padding-bottom:43px}.blue-stack .play-on{position:absolute;bottom:0;left:0;right:0;height:35px;line-height:35px;color:#fff;text-align:center;font-size:17px;background:rgba(0,35,90,0.8)}.blue-stack .play-on.tgb{background-color:black}.blue-stack .play-on.r{right:24px}.pricing{margin-left:15px;display:inline-block;line-height:25px;text-align:right}.price{color:#FF8B2F;font-size:20px}.price.only{line-height:50px}.price-old{text-decoration:line-through}.fancybox_custom_class .pre_pop_ca{padding:0}.fancybox_custom_class .pre_pop_so{padding:20px 40px 0;width:880px}.fancybox_custom_class .fancybox-slide{min-width:900px}.ar_fix .ny-dl-n dt{float:right}.ar_fix .ny-dl-n dd{margin-left:0;margin-right:195px}.ar_fix .ny-down{right:auto;left:0}.ar_fix .details-rating .rating-info{float:right;margin-left:0;margin-right:5px}.ar_fix .details-rating .stars{float:right}.ar_fix .translate .translate-btn{left:13px;right:auto}.ar_fix .additional li{float:right}.ar_fix .ny-down a{float:right}.ar_fix .ny-down .fsize{margin-left:0;margin-right:5px}.ar_fix .ny-down .safe{margin-left:0;margin-right:8px}.ar_fix .requestupdate img{margin-left:0;margin-right:3px}.ar_fix .blue-stack .play-on.r{right:0;left:24px}.ar_fix .pricing{margin-right:15px;margin-left:0;text-align:left}
+</style>
+</head>
+<body>
+
+
+<!--[if lt IE 9]>
+<div class="browseerror">Your browser you are using is <strong>too old</strong>. Please upgrade</div>
+<![endif]-->
+<style>
+    @-webkit-keyframes flipInY {
+        from {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, 90deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, 90deg);
+            -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+            opacity: 0;
+        }
+        40% {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, -20deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, -20deg);
+            -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+        }
+        60% {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, 10deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, 10deg);
+            opacity: 1;
+        }
+        80% {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, -5deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, -5deg);
+        }
+        to {
+            -webkit-transform: perspective(400px);
+            transform: perspective(400px);
+        }
+    }
+    @keyframes flipInY {
+        from {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, 90deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, 90deg);
+            -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+            opacity: 0;
+        }
+        40% {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, -20deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, -20deg);
+            -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+        }
+        60% {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, 10deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, 10deg);
+            opacity: 1;
+        }
+        80% {
+            -webkit-transform: perspective(400px) rotate3d(0, 1, 0, -5deg);
+            transform: perspective(400px) rotate3d(0, 1, 0, -5deg);
+        }
+        to {
+            -webkit-transform: perspective(400px);
+            transform: perspective(400px);
+        }
+    }
+    .flipInY {
+        -webkit-backface-visibility: visible !important;
+        backface-visibility: visible !important;
+        -webkit-animation-name: flipInY;
+        animation-name: flipInY;
+    }
+    .year2020 {
+        -webkit-animation: flipInY 1s 0s both;
+        animation: flipInY 1s 0s both;
+        display: block;
+        position: absolute;
+        right: -33px;
+        top: 15px;
+        width: 47px;
+        height: 40px;
+        background-image: url('https://static.apkpure.com/www/static/imgs/year-2020_v2@2x.png');
+        background-size: 100% 100%;
+    }
+</style>
+
+<div class="header">
+    <div class="head">
+        <div class="logo" style="position: relative;">
+            <a title="APKPure" href="/"><img alt="APKPure" src="https://static.apkpure.com/www/static/imgs/logo_new.png"  srcset="https://static.apkpure.com/www/static/imgs/logo_new@2x.png 2x" height="32" /></a>
+            <a title="Happy new year" class="year2020" target="_blank" href="/topic/happy-new-year-2020"></a>
+        </div>
+        <div class="top-menu">
+            <ul class="nav_menu">
+                
+                <li class="nav_menu-item on" id="nav-user" data-ref="%2Ftarget%2Fcom.target.ui">
+                    <a class="nav-l" id="nav-user-a" rel="nofollow" data-href="/login" data-click="nextByApkpure('%2Ftarget%2Fcom.target.ui')" href="javascript:void(0)"><img width="30" height="30" class="nav-user-img" id="nav-user-img" data-src="https://static.apkpure.com/www/static/imgs/no_login_v1.png" src="https://static.apkpure.com/www/static/imgs/no_login_v1.png"></a>
+                </li>
+                
+                <li class="nav_menu-item locale-change"><a href="javascript:void(0)" class="nav-l flag-country flag-country_h  flag_country_h_en  ">
+                        EN
+                </a>
+                    
+                    <ul class="nav_submenu nav_submenu-r nav_lang">
+                        <li class="nav_submenu-item">
+                            <div class="menu_list">
+                                <div class="menu_body">
+                                    <ul>
+                                        <li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_us" href="https://apkpure.com/target/com.target.ui" hreflang="en"> English</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_br" href="https://apkpure.com/br/target/com.target.ui" hreflang="pt"> Português</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_es" href="https://apkpure.com/es/target/com.target.ui" hreflang="es"> Español</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_ru" href="https://apkpure.com/ru/target/com.target.ui" hreflang="ru-RU"> Pусский</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_sa" href="https://apkpure.com/ar/target/com.target.ui" hreflang="ar"> العربية‎</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_cn" href="https://apkpure.com/cn/target/com.target.ui" hreflang="zh-CN"> 中文(简体)</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_tw" href="https://apkpure.com/tw/target/com.target.ui" hreflang="zh-TW"> 中文(繁體)</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_in" href="https://apkpure.com/in/target/com.target.ui" hreflang="hi"> हिन्दी</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_id" href="https://apkpure.com/id/target/com.target.ui" hreflang="id"> Indonesia</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_it" href="https://apkpure.com/it/target/com.target.ui" hreflang="it-IT"> Italiano</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_nl" href="https://apkpure.com/nl/target/com.target.ui" hreflang="nl"> Nederlands</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_jp" href="https://apkpure.com/jp/target/com.target.ui" hreflang="ja"> 日本語</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_pl" href="https://apkpure.com/pl/target/com.target.ui" hreflang="pl"> Polski</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_de" href="https://apkpure.com/de/target/com.target.ui" hreflang="de-DE"> Deutsch</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_vn" href="https://apkpure.com/vn/target/com.target.ui" hreflang="vi-VN"> Tiếng Việt</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_fr" href="https://apkpure.com/fr/target/com.target.ui" hreflang="fr-FR"> Français</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_tr" href="https://apkpure.com/tr/target/com.target.ui" hreflang="tr-TR"> Türkiye</a></li><li onclick="Redirect.setLangCookie('menu')"><a class="flag-icon flag-country flag_country_kr" href="https://apkpure.com/kr/target/com.target.ui" hreflang="ko-KR"> 한국어</a></li>
+                                        <li><a class="h" id="help_translate" target="_blank" href="https://translate.apkpure.com/projects/apkpure/" rel="nofollow">Help translate APKPure</a></li>
+                                    </ul>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    
+                </li>
+                
+                
+                <li class="nav_menu-item">
+                    <div class="top-search">
+                        <form class="formsearch" method="get" action="/search">
+                            <div class="search-left"><input class="autocomplete" autocomplete="off" title="Enter App Name, Package Name, Package ID" name="q" type="text" size="40" placeholder="Search..." required/></div>
+                            <div class="search-right"><input class="si" type="submit" value="" /></div>
+                        </form>
+                    </div>
+                </li>
+                
+                <li class="nav_menu-item"><a href="javascript:void(0)" class="nav-p">PRODUCTS</a>
+                    <ul class="nav_submenu">
+                        <li class="nav_submenu-item">
+                            <div class="menu_list">
+                                <div class="menu_body">
+                                    <ul>
+                                        <li><a class="dl-ref" dl-ref="nav" href="/apkpure-app.html?icn=aegon&ici=text-nav">APKPure App</a></li>
+                                        <li><a href="/apk-install.html">APK Install</a></li>
+                                        <li><a href="/region-free-apk-download">APK Download</a></li>
+                                        <li><a href="/apk-signature-verification">APK Verification</a></li>
+                                        <li><a href="https://iphone.apkpure.com/?utm_source=APKPure&utm_medium=nav_product_link" target="_blank">iPhone APP</a></li>
+                                        <li><a href="https://yaksgames.com/?utm_source=APKPure&utm_medium=nav_product" target="_blank">YaksGames</a></li>
+                                        <li><a href="/how-to-play-pubg-on-pc">Tencent Gaming Buddy</a></li>
+                                        <li><a href="/bluestacks-app-player">BlueStacks App Player</a></li>
+                                    </ul>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav_menu-item"><a href="javascript:void(0)" class="nav-t">Topics</a>
+                    <ul class="nav_submenu">
+                        <li class="nav_submenu-item">
+                            <div class="menu_list">
+                                <div class="menu_body">
+                                    <ul>
+                                        <li><a href="/discover">Discover</a></li>
+                                        <li><a href="/editor-choice">Editor's Choice</a></li>
+                                        <li><a href="/pre-register">Pre-register</a></li>
+                                        <li><a href="/game-sales">Game on sales</a></li>
+                                        <li><a class="h" href="/topics">More Topics</a></li>
+                                    </ul>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav_menu-item"><a title="hot android app apk" href="/app" class="nav-a">APPS</a></li>
+                <li class="nav_menu-item"><a title="hot android game apk" href="/game" class="nav-g">GAMES</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="policy-info">
+    <div class="main">
+        We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='/privacy-policy.html'>Privacy Policy</a> and <a target='_blank' href='/cookie-policy.html'>Cookies Policy</a>.
+        <div class="btn">
+        <a href="javascript:policy_review.setReview();">Ok I Agree</a>
+        <a style="background: none; color: #fff" href="/privacy-policy.html">Learn More</a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    window.apkpureSearchs = {topSearchHint:["Call of Duty®: Mobile","PUBG Mobile","Garena Free Fire","videobuddy downloader"],enable:true}
+    if (policy_review.isReview()) {document.getElementById('policy-info').style.display='block';}else{}
+</script>
+<div class="main page-q" data-type="pkg" data-pkg="com.target.ui" style=" margin-top:20px;" itemscope itemtype="http://schema.org/MobileApplication">
+	<div class="left">
+        
+        <div class="ad-box-auto" style="height:90px">
+            <!-- detail_horizontal -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-6440728838366015"
+                data-ad-slot="7932477794"
+                data-ad-format="horizontal"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        
+		<div class="box">
+			<div class="title bread-crumbs">
+                <a href="/">Home</a> » <a href="/app">Apps</a> » <a href="/shopping">Shopping</a> » <span itemprop="name">Target</span>
+                <div class="addthis-menu share-hide">
+                    <a class="addthis-custom"></a>
+                </div>
+            </div>
+			<dl class="ny-dl ny-dl-n">
+				<dt>
+                    <div class="icon"><img title="Target icon" alt="Target icon" srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9pY29uXzE1NTU0Nzk3NTJfMDQ3/icon.png?w=340&amp;fakeurl=1 2x" src="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9pY29uXzE1NTU0Nzk3NTJfMDQ3/icon.png?w=170&amp;fakeurl=1"></div>
+                </dt>
+                <dd>
+                    <div class="title-like">
+                        <h1>Target</h1>
+                    </div>
+                    <div class="details-sdk"><span itemprop="version">6.48.0 </span>for Android</div>
+                    
+                    <div class="details-rating">
+                        
+                        <div class="stars" title="average: 0 out of 10">
+                            <span class="score" style="width:0%"></span>
+                        </div>
+                        
+                        <div class="rating-info">
+                            
+                            
+                            <span class="details-delimiter"> | </span>
+                            <a href="#comment" class="details-to-bottom" data-type="reviews">0 Reviews</a>
+                            <span class="details-delimiter"> | </span>
+                            
+                            <a href="#comment" class="details-to-bottom" data-type="posts">1 Posts</a>
+                        </div>
+                    </div>
+                    <div class="details-author">
+                        <p itemprop="publisher"><a title="Get more from Target Corporation" href="/developer/Target%20Corporation">Target Corporation</a></p>
+                    </div>
+                    
+                    
+                    <div class="ny-down">
+                        
+                            
+                                
+                                    
+                                    
+                                        <a class=" da" title="Download Target latest version apk" href="/target/com.target.ui/download?from=details">Download APK<span class="fsize">(<span>35.1 MB</span>)</span></a>
+                                    
+                                
+                            
+                        
+                        <span itemscope itemprop="offers" itemtype="https://schema.org/Offer"><meta itemprop="price" content="0.00"/><meta itemprop="priceCurrency" content="USD"/></span>
+                        
+                        
+                            <a title="Target Previous Versions" href="/target/com.target.ui/versions" class="ny-versions">Versions</a>
+                            <a rel="nofollow" title="Target safe verified" data-fancybox data-type="iframe" href="/faq-safe.html" class="safe popsafe-open"><img alt="Target safe verified" src="https://static.apkpure.com/www/static/imgs/icon-verified_v2.png" width="16"></a>
+                        
+                        
+                    </div>
+                    
+                    
+                    
+                        
+                    
+                    
+                </dd>
+            </dl>
+            
+            
+            
+            
+            
+            <div class="aegon-link">
+                <a class="dl-ref" dl-ref="detail" rel="nofollow" title="Using APKPure App to upgrade Target, fast, free and save your internet data." href="/apkpure-app.html?icn=aegon&amp;ici=text_detail-apk">
+                    <img src="https://image.winudf.com/v2/image/YWRtaW5fU2xpY2UgMS5wbmdfMTUzOTE1MjYwNTY0MQ/image.png?fakeurl=1&w=24" width="24" height="24">Using APKPure App to upgrade <strong>Target</strong>, fast, free and save your internet data.
+                </a>
+            </div>
+            
+            <div class="describe">
+                
+                <div class="describe-line"></div>
+                <div class="describe-img">
+                <div id="slide-box">
+                    <div class="det-pic-out">
+                        <ul class="pa det-pic-list" style="left: 0px;">
+                            <li class="amagnificpopup">
+                                
+                                
+                                <a class="mpopup" data-fancybox="com.target.ui" style="" target="_blank" href="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMF8xNTcxMjUzOTk3XzA3OQ/screen-0.jpg?fakeurl=1&amp;type=.jpg" title="Target poster">
+                                    <img alt="Target poster" srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMF8xNTcxMjUzOTk3XzA3OQ/screen-0.jpg?h=710&amp;fakeurl=1&amp;type=.jpg 2x" src="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMF8xNTcxMjUzOTk3XzA3OQ/screen-0.jpg?h=355&amp;fakeurl=1&amp;type=.jpg" height="355">
+                                </a>
+                                
+                                <a class="mpopup" data-fancybox="com.target.ui" style="" target="_blank" href="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMV8xNTcxMjUzOTk4XzA4MQ/screen-1.jpg?fakeurl=1&amp;type=.jpg" title="Target screenshot 1">
+                                    <img alt="Target screenshot 1" srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMV8xNTcxMjUzOTk4XzA4MQ/screen-1.jpg?h=710&amp;fakeurl=1&amp;type=.jpg 2x" src="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMV8xNTcxMjUzOTk4XzA4MQ/screen-1.jpg?h=355&amp;fakeurl=1&amp;type=.jpg" height="355">
+                                </a>
+                                
+                                <a class="mpopup" data-fancybox="com.target.ui" style="" target="_blank" href="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMl8xNTcxMjUzOTk4XzA5Ng/screen-2.jpg?fakeurl=1&amp;type=.jpg" title="Target screenshot 2">
+                                    <img alt="Target screenshot 2" srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMl8xNTcxMjUzOTk4XzA5Ng/screen-2.jpg?h=710&amp;fakeurl=1&amp;type=.jpg 2x" src="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fMl8xNTcxMjUzOTk4XzA5Ng/screen-2.jpg?h=355&amp;fakeurl=1&amp;type=.jpg" height="355">
+                                </a>
+                                
+                                <a class="mpopup" data-fancybox="com.target.ui" style="" target="_blank" href="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fM18xNTcxMjUzOTk5XzA3OQ/screen-3.jpg?fakeurl=1&amp;type=.jpg" title="Target screenshot 3">
+                                    <img alt="Target screenshot 3" srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fM18xNTcxMjUzOTk5XzA3OQ/screen-3.jpg?h=710&amp;fakeurl=1&amp;type=.jpg 2x" src="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fM18xNTcxMjUzOTk5XzA3OQ/screen-3.jpg?h=355&amp;fakeurl=1&amp;type=.jpg" height="355">
+                                </a>
+                                
+                                <a class="mpopup" data-fancybox="com.target.ui" style="" target="_blank" href="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fNF8xNTcxMjUzOTk5XzAyNQ/screen-4.jpg?fakeurl=1&amp;type=.jpg" title="Target screenshot 4">
+                                    <img alt="Target screenshot 4" srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fNF8xNTcxMjUzOTk5XzAyNQ/screen-4.jpg?h=710&amp;fakeurl=1&amp;type=.jpg 2x" src="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fNF8xNTcxMjUzOTk5XzAyNQ/screen-4.jpg?h=355&amp;fakeurl=1&amp;type=.jpg" height="355">
+                                </a>
+                                
+                                <a class="mpopup" data-fancybox="com.target.ui" style="padding-right: 0px;" target="_blank" href="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fNV8xNTcxMjUzOTk5XzAxMg/screen-5.jpg?fakeurl=1&amp;type=.jpg" title="Target screenshot 5">
+                                    <img alt="Target screenshot 5" srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fNV8xNTcxMjUzOTk5XzAxMg/screen-5.jpg?h=710&amp;fakeurl=1&amp;type=.jpg 2x" src="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC51aV9zY3JlZW5fNV8xNTcxMjUzOTk5XzAxMg/screen-5.jpg?h=355&amp;fakeurl=1&amp;type=.jpg" height="355">
+                                </a>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    <a href="javascript:void(0)" class="det-pic-control" id="prev" go=""></a>
+                    <a href="javascript:void(0)" class="det-pic-control go" id="next" go=""></a>
+                </div>
+                </div>
+                <div class="describe-line"></div>
+                
+                
+                <div id="describe">
+                    <div class="description">
+                    <h2>The description of Target</h2>
+                    <div class="content" itemprop="description">Now the Target app can help you have a more rewarding Target run! Introducing Target Circle, which gives you access to hundreds of deals, a birthday gift and the chance to support your community.<br><br>Plan your next Target run by checking out Target Circle offers, the Weekly Ad and item availability all in one place. Then streamline your run with store maps and aisle locations, and scan item barcodes for prices, reviews and available deals.<br><br>Wallet is the fastest, easiest way to pay and save in store. With one scan, you can pay with your credit or debit RedCard and redeem Target Circle offers, gift cards and Target Circle earnings.<br><br>With improved iPad support, the app makes it easy to shop from anywhere, allowing you to search our entire selection, complete with online promotions and flexible ordering options. Order quickly and securely every time, then choose to pick it up at your local store or have it delivered to your home.</div>
+                    </div>
+                </div>
+                
+                <div class="showmore_trigger">
+                    <div class="show-more-end"></div>
+                    <span>Show More</span>
+                </div>
+                
+                <script type="text/javascript">var description_translation = '';</script>
+                
+                
+                <div class="describe-line"></div>
+                <div class="describe-whatnew" id="whatsnew">
+                    <h2>Target 6.48.0 Update</h2>
+                    <div>2019-07-14</div>
+                    <div>Change your mind about where you want your stuff delivered? Now you can change your address after placing an order. You’ll see the option on the order details page up until the order has shipped.</div>
+                </div>
+                
+            </div>
+			<div class="clear"></div>
+            
+            
+<div class="describe-line"></div>
+<div class="tag">
+    <h2>Target Tags</h2>
+    <div class="tag_wrap">
+        <ul class="tag_list">
+            
+            <li><a href="/tag/Shopping">Shopping</a></li>
+            
+            <li class="tag_add"></li>
+        </ul>
+    </div>
+</div>
+<div class="mfp-hide mfp-with-anim pre_pop_ca pre_pop pre_pop_pre_tag">
+    <div class="floatl">
+        <img src="https://static.apkpure.com/www/static/imgs/market_tag.png">
+    </div>
+    <div class="floatl pr">
+        <div>
+            <div class="tit">Add Tags</div>
+            <p class="info">By adding tag words that describe for Games&Apps, you're helping to make these Games and Apps be more discoverable by other APKPure users.</p>
+            <div class="down">
+                
+                <a class="dl-ref" dl-ref="profile" title="Download APKPure latest version apk" href="/apkpure-app.html?icn=aegon&ici=image_comment">Download APK<span class="fsize">(<span>12.1 MB</span>)</span></a>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+            <div class="describe-line"></div>
+            <div class="additional">
+                <h2>Additional Information</h2>
+                <ul>
+                    <li>
+                        <p><strong>Category:</strong></p>
+                        <p><a title="Download more Shopping apps" href="/shopping"><span>Free</span> <span>Shopping APP</span></a></p>
+                        
+                        <meta itemprop="applicationCategory" content="APP"/>
+                        <meta itemprop="applicationSubCategory" content="Shopping"/>
+                        
+                    </li>
+                    <li>
+                        <p><strong>Latest Version:</strong></p>
+                        <p>6.48.0<a title="Request Target Update" rel="nofollow" class="requestupdate ga" ga="requpdate|click|com.target.ui" target="_blank" href="https://www.facebook.com/apkpure"><img alt="Request Target Update" src="https://static.apkpure.com/www/static/imgs/requestupdate.png" width="16" height="16"></a></p>
+                    </li>
+                    <li>
+                        <p><strong>Publish Date:</strong></p>
+                        
+                        <p itemprop="datePublished">2019-12-19</p>
+                        
+                    </li>
+                    <li>
+                        <p><strong>Get it on:</strong></p>
+                        
+                        <p><a class="ga" ga="get_it_on|click|com.target.ui" title="Get Target on Google Play" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.target.ui" target="_blank"><img alt="Get Target on Google Play" src="https://static.apkpure.com/www/static/imgs/gp_logo.png" height="16" /></a></p>
+                        
+                    </li>
+                    <li>
+                        <p><strong>Requirements:</strong></p>
+                        <p>Android 5.0+</p>
+                        
+                        <meta itemprop="operatingSystem" content="ANDROID"/>
+                        
+                    </li>
+                    <li>
+                        <p><strong>Report:</strong></p>
+                        <p><a rel="nofollow" href="/report-content.html?pkg=com.target.ui" target="_blank">Flag as inappropriate</a></p>
+                    </li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+		</div>
+        
+            <div class="box" style="overflow: hidden; padding-bottom: 20px">
+                <div style="color: #555; text-align: center; padding-top: 10px;">Advertisement</div>
+                <div style="margin: 0 15px;">
+                    <!-- detail_link -->
+                    <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-6440728838366015"
+                            data-ad-slot="3762862992"
+                            data-ad-format="link"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+            </div>
+        
+        
+        
+        <div class="anchor-download"><a name="download" id="download">&nbsp;</a></div>
+        <div class="ver-title">
+            <div class="tit">Previous versions</div>
+            <div class="more"><a href="/target/com.target.ui/versions">More &raquo;</a></div>
+        </div>
+        <div class="ver">
+            <ul class="ver-wrap">
+                
+                    
+                    
+                    
+                           <li>
+    <a title="Download Target v6.48.0 for android" href="/target/com.target.ui/download/1906001618-APK?from=versions%2Fversion">
+        <div class="ver-item">
+            <div class="ver-item-wrap">
+                <span class="ver-item-n">V6.48.0</span>
+                <span class="ver-item-s">35.1 MB</span>
+                <span class="ver-item-t ver-apk">APK</span>
+                
+                
+            </div>
+            <div class="ver-item-a">
+                <p>Target</p>
+                <p class="update-on">2019-07-14</p>
+            </div>
+            <i class="ver-item-d"></i>
+
+            
+            <i role="button" aria-label="Version Info" class="ver-item-m pop" data-p="com.target.ui" data-vid="5d2b9d6a780c313b541ca7f1" data-lang="en-US"></i>
+            
+        </div>
+    </a>
+    
+<div class="ver-info">
+    <div class="ver-info-top"><strong>Target</strong> 6.48.0 (1906001618)</div>
+    <div class="ver-info-m">
+        
+        <p><strong>Update on: </strong>2019-07-14</p>
+        <p><strong>Requires Android: </strong>Android 5.0+ (Lollipop, API 21)</p>
+        <p><strong>Signature: </strong>8553cf17de90385995a92ffa7d59c1ae146c42c7
+            
+            <a rel="nofollow" title="Target 6.48.0(1906001618) safe verified" href="/faq-safe.html" class="safe-link-version popsafe-open" data-fancybox data-type="iframe"><img alt="Target 6.48.0(1906001618) safe verified" src="https://static.apkpure.com/www/static/imgs/icon-verified_v2.png" width="16"></a>
+            
+        </p>
+        <p><strong>Screen DPI: </strong>nodpi</p>
+        <p><strong>Architecture: </strong>armeabi-v7a, x86</p>
+        
+        
+        <p><strong>File SHA1: </strong>2dce1c25f2ef8adb8835e0adcabfcf1763c41349</p>
+        <p><strong>File Size: </strong>35.1 MB</p>
+        
+        <p><strong>What's new: </strong></p>
+        <div class="ver-whats-new v5d2b9d6a780c313b541ca7f1"></div>
+        
+        <p><a class=" down" href="/target/com.target.ui/download/1906001618-APK?from=popup%2Fversion">Download</a></p>
+    </div>
+</div>
+
+</li>
+                    
+                    
+                
+                    
+                    
+                    
+                           <li>
+    <a title="Download Target v6.47.0 for android" href="/target/com.target.ui/download/1906001615-APK?from=versions%2Fversion">
+        <div class="ver-item">
+            <div class="ver-item-wrap">
+                <span class="ver-item-n">V6.47.0</span>
+                <span class="ver-item-s">34.6 MB</span>
+                <span class="ver-item-t ver-apk">APK</span>
+                
+                
+            </div>
+            <div class="ver-item-a">
+                <p>Target</p>
+                <p class="update-on">2019-06-28</p>
+            </div>
+            <i class="ver-item-d"></i>
+
+            
+            <i role="button" aria-label="Version Info" class="ver-item-m pop" data-p="com.target.ui" data-vid="5d164da8f2a2da381a14fd1d" data-lang="en-US"></i>
+            
+        </div>
+    </a>
+    
+<div class="ver-info">
+    <div class="ver-info-top"><strong>Target</strong> 6.47.0 (1906001615)</div>
+    <div class="ver-info-m">
+        
+        <p><strong>Update on: </strong>2019-06-28</p>
+        <p><strong>Requires Android: </strong>Android 5.0+ (Lollipop, API 21)</p>
+        <p><strong>Signature: </strong>8553cf17de90385995a92ffa7d59c1ae146c42c7
+            
+            <a rel="nofollow" title="Target 6.47.0(1906001615) safe verified" href="/faq-safe.html" class="safe-link-version popsafe-open" data-fancybox data-type="iframe"><img alt="Target 6.47.0(1906001615) safe verified" src="https://static.apkpure.com/www/static/imgs/icon-verified_v2.png" width="16"></a>
+            
+        </p>
+        <p><strong>Screen DPI: </strong>nodpi</p>
+        <p><strong>Architecture: </strong>armeabi-v7a, x86</p>
+        
+        
+        <p><strong>File SHA1: </strong>2d78a84df04f28617a36954100119914ab6cd424</p>
+        <p><strong>File Size: </strong>34.6 MB</p>
+        
+        <p><strong>What's new: </strong></p>
+        <div class="ver-whats-new v5d164da8f2a2da381a14fd1d"></div>
+        
+        <p><a class=" down" href="/target/com.target.ui/download/1906001615-APK?from=popup%2Fversion">Download</a></p>
+    </div>
+</div>
+
+</li>
+                    
+                    
+                
+                    
+                    
+                    
+                           <li>
+    <a title="Download Target v6.46.0 for android" href="/target/com.target.ui/download/1906001612-APK?from=versions%2Fversion">
+        <div class="ver-item">
+            <div class="ver-item-wrap">
+                <span class="ver-item-n">V6.46.0</span>
+                <span class="ver-item-s">31.5 MB</span>
+                <span class="ver-item-t ver-apk">APK</span>
+                
+                
+            </div>
+            <div class="ver-item-a">
+                <p>Target</p>
+                <p class="update-on">2019-06-17</p>
+            </div>
+            <i class="ver-item-d"></i>
+
+            
+            <i role="button" aria-label="Version Info" class="ver-item-m pop" data-p="com.target.ui" data-vid="5d074055cab0bd1895eab898" data-lang="en-US"></i>
+            
+        </div>
+    </a>
+    
+<div class="ver-info">
+    <div class="ver-info-top"><strong>Target</strong> 6.46.0 (1906001612)</div>
+    <div class="ver-info-m">
+        
+        <p><strong>Update on: </strong>2019-06-17</p>
+        <p><strong>Requires Android: </strong>Android 5.0+ (Lollipop, API 21)</p>
+        <p><strong>Signature: </strong>8553cf17de90385995a92ffa7d59c1ae146c42c7
+            
+            <a rel="nofollow" title="Target 6.46.0(1906001612) safe verified" href="/faq-safe.html" class="safe-link-version popsafe-open" data-fancybox data-type="iframe"><img alt="Target 6.46.0(1906001612) safe verified" src="https://static.apkpure.com/www/static/imgs/icon-verified_v2.png" width="16"></a>
+            
+        </p>
+        <p><strong>Screen DPI: </strong>nodpi</p>
+        <p><strong>Architecture: </strong>armeabi-v7a, x86</p>
+        
+        
+        <p><strong>File SHA1: </strong>dd48119a9c48af2696bb85f1ebedd27c06e76430</p>
+        <p><strong>File Size: </strong>31.5 MB</p>
+        
+        <p><strong>What's new: </strong></p>
+        <div class="ver-whats-new v5d074055cab0bd1895eab898"></div>
+        
+        <p><a class=" down" href="/target/com.target.ui/download/1906001612-APK?from=popup%2Fversion">Download</a></p>
+    </div>
+</div>
+
+</li>
+                    
+                    
+                
+                    
+                    
+                    
+                           <li>
+    <a title="Download Target v6.45.0 for android" href="/target/com.target.ui/download/1906001606-APK?from=versions%2Fversion">
+        <div class="ver-item">
+            <div class="ver-item-wrap">
+                <span class="ver-item-n">V6.45.0</span>
+                <span class="ver-item-s">31.3 MB</span>
+                <span class="ver-item-t ver-apk">APK</span>
+                
+                
+            </div>
+            <div class="ver-item-a">
+                <p>Target</p>
+                <p class="update-on">2019-05-31</p>
+            </div>
+            <i class="ver-item-d"></i>
+
+            
+            <i role="button" aria-label="Version Info" class="ver-item-m pop" data-p="com.target.ui" data-vid="5cf154116e830642f71b1392" data-lang="en-US"></i>
+            
+        </div>
+    </a>
+    
+<div class="ver-info">
+    <div class="ver-info-top"><strong>Target</strong> 6.45.0 (1906001606)</div>
+    <div class="ver-info-m">
+        
+        <p><strong>Update on: </strong>2019-05-31</p>
+        <p><strong>Requires Android: </strong>Android 5.0+ (Lollipop, API 21)</p>
+        <p><strong>Signature: </strong>8553cf17de90385995a92ffa7d59c1ae146c42c7
+            
+            <a rel="nofollow" title="Target 6.45.0(1906001606) safe verified" href="/faq-safe.html" class="safe-link-version popsafe-open" data-fancybox data-type="iframe"><img alt="Target 6.45.0(1906001606) safe verified" src="https://static.apkpure.com/www/static/imgs/icon-verified_v2.png" width="16"></a>
+            
+        </p>
+        <p><strong>Screen DPI: </strong>nodpi</p>
+        <p><strong>Architecture: </strong>armeabi-v7a, x86</p>
+        
+        
+        <p><strong>File SHA1: </strong>a7cc350181e4600a7665579e8684d54ee6cb6e9a</p>
+        <p><strong>File Size: </strong>31.3 MB</p>
+        
+        <p><strong>What's new: </strong></p>
+        <div class="ver-whats-new v5cf154116e830642f71b1392"></div>
+        
+        <p><a class=" down" href="/target/com.target.ui/download/1906001606-APK?from=popup%2Fversion">Download</a></p>
+    </div>
+</div>
+
+</li>
+                    
+                    
+                
+                    
+                    
+                    
+                           <li>
+    <a title="Download Target v6.44.0 for android" href="/target/com.target.ui/download/1906001599-APK?from=versions%2Fversion">
+        <div class="ver-item">
+            <div class="ver-item-wrap">
+                <span class="ver-item-n">V6.44.0</span>
+                <span class="ver-item-s">31.5 MB</span>
+                <span class="ver-item-t ver-apk">APK</span>
+                
+                
+            </div>
+            <div class="ver-item-a">
+                <p>Target</p>
+                <p class="update-on">2019-05-20</p>
+            </div>
+            <i class="ver-item-d"></i>
+
+            
+            <i role="button" aria-label="Version Info" class="ver-item-m pop" data-p="com.target.ui" data-vid="5ce2179d6e83064b34195f18" data-lang="en-US"></i>
+            
+        </div>
+    </a>
+    
+<div class="ver-info">
+    <div class="ver-info-top"><strong>Target</strong> 6.44.0 (1906001599)</div>
+    <div class="ver-info-m">
+        
+        <p><strong>Update on: </strong>2019-05-20</p>
+        <p><strong>Requires Android: </strong>Android 5.0+ (Lollipop, API 21)</p>
+        <p><strong>Signature: </strong>8553cf17de90385995a92ffa7d59c1ae146c42c7
+            
+            <a rel="nofollow" title="Target 6.44.0(1906001599) safe verified" href="/faq-safe.html" class="safe-link-version popsafe-open" data-fancybox data-type="iframe"><img alt="Target 6.44.0(1906001599) safe verified" src="https://static.apkpure.com/www/static/imgs/icon-verified_v2.png" width="16"></a>
+            
+        </p>
+        <p><strong>Screen DPI: </strong>nodpi</p>
+        <p><strong>Architecture: </strong>armeabi, armeabi-v7a, mips, x86</p>
+        
+        
+        <p><strong>File SHA1: </strong>b2c83ce187527571fe65708bb361143db17fe1b8</p>
+        <p><strong>File Size: </strong>31.5 MB</p>
+        
+        <p><strong>What's new: </strong></p>
+        <div class="ver-whats-new v5ce2179d6e83064b34195f18"></div>
+        
+        <p><a class=" down" href="/target/com.target.ui/download/1906001599-APK?from=popup%2Fversion">Download</a></p>
+    </div>
+</div>
+
+</li>
+                    
+                    
+                
+                    
+                    
+                    
+                           <li>
+    <a title="Download Target v6.43.2 for android" href="/target/com.target.ui/download/1906001590-APK?from=versions%2Fversion">
+        <div class="ver-item">
+            <div class="ver-item-wrap">
+                <span class="ver-item-n">V6.43.2</span>
+                <span class="ver-item-s">25.1 MB</span>
+                <span class="ver-item-t ver-apk">APK</span>
+                
+                
+            </div>
+            <div class="ver-item-a">
+                <p>Target</p>
+                <p class="update-on">2019-05-15</p>
+            </div>
+            <i class="ver-item-d"></i>
+
+            
+            <i role="button" aria-label="Version Info" class="ver-item-m pop" data-p="com.target.ui" data-vid="5cdc482a6e830627a418d6be" data-lang="en-US"></i>
+            
+        </div>
+    </a>
+    
+<div class="ver-info">
+    <div class="ver-info-top"><strong>Target</strong> 6.43.2 (1906001590)</div>
+    <div class="ver-info-m">
+        
+        <p><strong>Update on: </strong>2019-05-15</p>
+        <p><strong>Requires Android: </strong>Android 5.0+ (Lollipop, API 21)</p>
+        <p><strong>Signature: </strong>8553cf17de90385995a92ffa7d59c1ae146c42c7
+            
+            <a rel="nofollow" title="Target 6.43.2(1906001590) safe verified" href="/faq-safe.html" class="safe-link-version popsafe-open" data-fancybox data-type="iframe"><img alt="Target 6.43.2(1906001590) safe verified" src="https://static.apkpure.com/www/static/imgs/icon-verified_v2.png" width="16"></a>
+            
+        </p>
+        <p><strong>Screen DPI: </strong>nodpi</p>
+        <p><strong>Architecture: </strong>armeabi, armeabi-v7a, mips, x86</p>
+        
+        
+        <p><strong>File SHA1: </strong>783d4ef55a4bf27ece0003710c8b374de5870bfc</p>
+        <p><strong>File Size: </strong>25.1 MB</p>
+        
+        <p><strong>What's new: </strong></p>
+        <div class="ver-whats-new v5cdc482a6e830627a418d6be"></div>
+        
+        <p><a class=" down" href="/target/com.target.ui/download/1906001590-APK?from=popup%2Fversion">Download</a></p>
+    </div>
+</div>
+
+</li>
+                    
+                    
+                
+                    
+                    
+                    
+                    
+            </ul>
+            <div class="clear"></div>
+        </div>
+        
+        
+        
+        
+<div class="box">
+	<div class="title">
+        <div class="smalltit">Similar to Target</div>
+        <div class="more"><a title="Similar to Target" href="/similar/com.target.ui">More &raquo;</a></div>
+    </div>
+    <ul class="top-list">
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="DealsPure" target="_blank" href="/dealspure/com.dealspure.wild"><img alt="DealsPure" data-srcset="https://image.winudf.com/v2/image/Y29tLmRlYWxzcHVyZS53aWxkX2ljb25fMTUzNDMzNDIwMF8wNzU/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image/Y29tLmRlYWxzcHVyZS53aWxkX2ljb25fMTUzNDMzNDIwMF8wNzU/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="DealsPure" href="/dealspure/com.dealspure.wild">DealsPure</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="DealsPure average rating 9.7" style="width:97%"></span><span class="star">9.7</span></div>
+        </dd>
+        <dd>PromoPure</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download DealsPure latest version apk" href="/dealspure/com.dealspure.wild/download?from=details%2Fsimilar">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="JCPenney" target="_blank" href="/jcpenney/com.jcp"><img alt="JCPenney" data-srcset="https://image.winudf.com/v2/image1/Y29tLmpjcF9pY29uXzE1NzI0NjcyNzlfMDk4/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmpjcF9pY29uXzE1NzI0NjcyNzlfMDk4/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="JCPenney" href="/jcpenney/com.jcp">JCPenney</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="JCPenney average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>JCPenney Inc.</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download JCPenney latest version xapk" href="/jcpenney/com.jcp/download?from=details%2Fsimilar">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Walmart" target="_blank" href="/walmart/com.walmart.android"><img alt="Walmart" data-srcset="https://image.winudf.com/v2/image1/Y29tLndhbG1hcnQuYW5kcm9pZF9pY29uXzE1NTgwMzA4NTlfMDEx/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLndhbG1hcnQuYW5kcm9pZF9pY29uXzE1NTgwMzA4NTlfMDEx/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Walmart" href="/walmart/com.walmart.android">Walmart</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Walmart average rating 9.0" style="width:90%"></span><span class="star">9.0</span></div>
+        </dd>
+        <dd>Walmart</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Walmart latest version apk" href="/walmart/com.walmart.android/download?from=details%2Fsimilar">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Hobby Lobby" target="_blank" href="/hobby-lobby-stores/com.hobbylobbystores.android"><img alt="Hobby Lobby" data-srcset="https://image.winudf.com/v2/image1/Y29tLmhvYmJ5bG9iYnlzdG9yZXMuYW5kcm9pZF9pY29uXzE1NDYwMzA5NDVfMDEw/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmhvYmJ5bG9iYnlzdG9yZXMuYW5kcm9pZF9pY29uXzE1NDYwMzA5NDVfMDEw/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Hobby Lobby" href="/hobby-lobby-stores/com.hobbylobbystores.android">Hobby Lobby</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Hobby Lobby Stores average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>Hobby Lobby Stores, Inc.</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Hobby Lobby Stores latest version apk" href="/hobby-lobby-stores/com.hobbylobbystores.android/download?from=details%2Fsimilar">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Walmart Grocery" target="_blank" href="/walmart-grocery/com.walmart.grocery"><img alt="Walmart Grocery" data-srcset="https://image.winudf.com/v2/image1/Y29tLndhbG1hcnQuZ3JvY2VyeV9pY29uXzE1NTU0MjMxNjhfMDY4/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLndhbG1hcnQuZ3JvY2VyeV9pY29uXzE1NTU0MjMxNjhfMDY4/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Walmart Grocery" href="/walmart-grocery/com.walmart.grocery">Walmart Grocery</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Walmart Grocery average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>Walmart</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Walmart Grocery latest version apk" href="/walmart-grocery/com.walmart.grocery/download?from=details%2Fsimilar">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Costco" target="_blank" href="/costco-wholesale/com.costco.app.android"><img alt="Costco" data-srcset="https://image.winudf.com/v2/image1/Y29tLmNvc3Rjby5hcHAuYW5kcm9pZF9pY29uXzE1NjE2Nzc1MDFfMDI1/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmNvc3Rjby5hcHAuYW5kcm9pZF9pY29uXzE1NjE2Nzc1MDFfMDI1/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Costco" href="/costco-wholesale/com.costco.app.android">Costco</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Costco Wholesale average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>Costco Wholesale</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Costco Wholesale latest version apk" href="/costco-wholesale/com.costco.app.android/download?from=details%2Fsimilar">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+	</ul>
+	<div class="clear"></div>
+</div>
+
+
+        
+        
+<div class="box">
+	<div class="title">
+        <div class="smalltit">More From Target Corporation</div>
+        <div class="more"><a title="Get more from Target Corporation" href="/developer/Target%20Corporation">More &raquo;</a></div>
+    </div>
+    <ul class="top-list">
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Target Registry" target="_blank" href="/target-registry/com.target.GuestRegistry"><img alt="Target Registry" data-srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5HdWVzdFJlZ2lzdHJ5X2ljb25fMTU1MzM4NTE5Nl8wMTI/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5HdWVzdFJlZ2lzdHJ5X2ljb25fMTU1MzM4NTE5Nl8wMTI/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Target Registry" href="/target-registry/com.target.GuestRegistry">Target Registry</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Target Registry average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>2.3.0</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Target Registry latest version apk" href="/target-registry/com.target.GuestRegistry/download?from=details%2Fdeveloper">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="myTime for Target" target="_blank" href="/mytime-for-target/com.target.mytime"><img alt="myTime for Target" data-srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5teXRpbWVfaWNvbl8xNTY0MTQ2MTk3XzA0NQ/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5teXRpbWVfaWNvbl8xNTY0MTQ2MTk3XzA0NQ/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="myTime for Target" href="/mytime-for-target/com.target.mytime">myTime for Target</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="myTime for Target average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>1.0.6</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download myTime for Target latest version apk" href="/mytime-for-target/com.target.mytime/download?from=details%2Fdeveloper">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Target Connected" target="_blank" href="/target-connected/com.target.android.connected"><img alt="Target Connected" data-srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5hbmRyb2lkLmNvbm5lY3RlZF9pY29uXzE1NDg3MTM1OThfMDYx/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5hbmRyb2lkLmNvbm5lY3RlZF9pY29uXzE1NDg3MTM1OThfMDYx/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Target Connected" href="/target-connected/com.target.android.connected">Target Connected</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Target Connected average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>2.0</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Target Connected latest version apk" href="/target-connected/com.target.android.connected/download?from=details%2Fdeveloper">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Target Driver App" target="_blank" href="/target-driver-app/com.target.lastmile.driverapp"><img alt="Target Driver App" data-srcset="https://image.winudf.com/v2/image/Y29tLnRhcmdldC5sYXN0bWlsZS5kcml2ZXJhcHBfaWNvbl8xNTM3NTkwNDM3XzAxMw/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image/Y29tLnRhcmdldC5sYXN0bWlsZS5kcml2ZXJhcHBfaWNvbl8xNTM3NTkwNDM3XzAxMw/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Target Driver App" href="/target-driver-app/com.target.lastmile.driverapp">Target Driver App</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Target Driver App average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>2.0.4</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Target Driver App latest version apk" href="/target-driver-app/com.target.lastmile.driverapp/download?from=details%2Fdeveloper">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Studio Connect™" target="_blank" href="/studio-connect%E2%84%A2/live.studioconnect.StudioConnect"><img alt="Studio Connect™" data-srcset="https://image.winudf.com/v2/image1/bGl2ZS5zdHVkaW9jb25uZWN0LlN0dWRpb0Nvbm5lY3RfaWNvbl8xNTU0NjAwNjM0XzA5NA/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/bGl2ZS5zdHVkaW9jb25uZWN0LlN0dWRpb0Nvbm5lY3RfaWNvbl8xNTU0NjAwNjM0XzA5NA/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Studio Connect™" href="/studio-connect%E2%84%A2/live.studioconnect.StudioConnect">Studio Connect™</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Studio Connect™ average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>1.4.14</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Studio Connect™ latest version apk" href="/studio-connect%E2%84%A2/live.studioconnect.StudioConnect/download?from=details%2Fdeveloper">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+            
+
+
+<li class="w33">
+    <dl>
+        <dt><a title="Target Elevate" target="_blank" href="/target-elevate/com.target.elevate"><img alt="Target Elevate" data-srcset="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5lbGV2YXRlX2ljb25fMTU3NjgyNDAwMF8wODY/icon.png?w=150&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLnRhcmdldC5lbGV2YXRlX2ljb25fMTU3NjgyNDAwMF8wODY/icon.png?w=75&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+        <dd class="title-dd"> <a target="_blank" title="Target Elevate" href="/target-elevate/com.target.elevate">Target Elevate</a></dd>
+        <dd>
+            <div class="stars"><span class="score" title="Target Elevate average rating 0.0" style="width:0%"></span></div>
+        </dd>
+        <dd>Varies with device</dd>
+        <dd class="down"><a rel="nofollow" class="" title="Download Target Elevate latest version apk" href="/target-elevate/com.target.elevate/download?from=details%2Fdeveloper">Download</a></dd>
+    </dl>
+</li>
+
+
+		
+	</ul>
+	<div class="clear"></div>
+</div>
+
+
+        <div class="box cmt-wrap" id="comment">
+    <div class="cmt-container"></div>
+    <div class="cmt-wrong"></div>
+    <div id="cmt-loading-first">
+        <div class="cssload-spin-box"></div>
+        <div class="cmt-loading-text">Comment Loading...</div>
+    </div>
+    <div class="cmt-no-posts" style="">Ooops! No such content!</div>
+</div>
+
+	</div>
+    <div class="right">
+        
+        <div class="facebook-like">
+    
+    
+    <p class="social-network">
+        <a class="network fb" rel="nofollow noopener" target="_blank" href="https://www.facebook.com/apkpure"><span>Facebook</span></a>
+        <a class="network tw" rel="nofollow noopener" target="_blank" href="https://twitter.com/apkpure"><span>Twitter</span></a>
+        <a class="network glp" rel="nofollow noopener" target="_blank" href="https://www.youtube.com/channel/UCbCOKdnt1yYk4S3I4a034XQ"><span>YouTube</span></a>
+    </p>
+</div>
+        
+        <div class="ad-box-auto">
+            <!-- detail_rectangle -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-6440728838366015"
+                data-ad-slot="7712985949"
+                data-ad-format="rectangle"
+                data-full-width-responsive="true"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        
+        
+        
+<div class="box">
+	<div class="title">
+        <div class="tit">Discover</div>
+        
+        <div class="more"><a href="/discover">More &raquo;</a></div>
+        
+    </div>
+	<ul class="index-left-ul index-left-ul-s">
+        
+
+<li>
+	<a href="/videobuddy-video-downloader/com.vid007.videobuddy" title="VideoBuddy">
+		<div class="app-icon"><img alt="VideoBuddy" data-srcset="https://image.winudf.com/v2/user/admin/YWRtaW5fV2VjaGF0SU1HMTUwLnBuZ18xNTY5MzA2OTExNTY3/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/user/admin/YWRtaW5fV2VjaGF0SU1HMTUwLnBuZ18xNTY5MzA2OTExNTY3/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">VideoBuddy</p>
+			
+				
+					<p>1.29.12914</p>
+					<p class="app-text-developer">Jasper Studio</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/hago-play-with-new-friends/com.yy.hiyo" title="HAGO - Play With New Friends">
+		<div class="app-icon"><img alt="HAGO - Play With New Friends" data-srcset="https://image.winudf.com/v2/image1/Y29tLnl5LmhpeW9faWNvbl8xNTYxMTMyMTQ5XzAyMQ/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLnl5LmhpeW9faWNvbl8xNTYxMTMyMTQ5XzAyMQ/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">HAGO - Play With New Friends</p>
+			
+				
+					<p>3.7.5</p>
+					<p class="app-text-developer">Hago Games</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/yidio-streaming-movie-tv-guide/com.yidio.androidapp" title="Yidio">
+		<div class="app-icon"><img alt="Yidio" data-srcset="https://image.winudf.com/v2/image1/Y29tLnlpZGlvLmFuZHJvaWRhcHBfaWNvbl8xNTUxMjg4MjYzXzAwOA/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLnlpZGlvLmFuZHJvaWRhcHBfaWNvbl8xNTUxMjg4MjYzXzAwOA/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">Yidio</p>
+			
+				
+					<p>3.8.5</p>
+					<p class="app-text-developer">Yidio LLC</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/2-3-4-player-mini-games/com.ction.playergames" title="2 3 4 Player Mini Games">
+		<div class="app-icon"><img alt="2 3 4 Player Mini Games" data-srcset="https://image.winudf.com/v2/image1/Y29tLmN0aW9uLnBsYXllcmdhbWVzX2ljb25fMTU2NDYzNTMzMV8wNDM/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmN0aW9uLnBsYXllcmdhbWVzX2ljb25fMTU2NDYzNTMzMV8wNDM/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">2 3 4 Player Mini Games</p>
+			
+				
+					<p>3.1.3</p>
+					<p class="app-text-developer">Better World Games</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/tiles-hop-edm-rush/com.amanotes.beathopper" title="Tiles Hop">
+		<div class="app-icon"><img alt="Tiles Hop" data-srcset="https://image.winudf.com/v2/image1/Y29tLmFtYW5vdGVzLmJlYXRob3BwZXJfaWNvbl8xNTc0Njg1NzEzXzA4NQ/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmFtYW5vdGVzLmJlYXRob3BwZXJfaWNvbl8xNTc0Njg1NzEzXzA4NQ/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">Tiles Hop</p>
+			
+				
+					<p>3.0.4</p>
+					<p class="app-text-developer">AMANOTES</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/via-browser-fast-light-geek-best-choice/mark.via.gp" title="Via">
+		<div class="app-icon"><img alt="Via" data-srcset="https://image.winudf.com/v2/image1/bWFyay52aWEuZ3BfaWNvbl8xNTUzOTIzNzIzXzA2NA/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/bWFyay52aWEuZ3BfaWNvbl8xNTUzOTIzNzIzXzA2NA/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">Via</p>
+			
+				
+					<p>3.9.5</p>
+					<p class="app-text-developer">Lakor</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/magic-tiles-3/com.youmusic.magictiles" title="Magic Tiles 3">
+		<div class="app-icon"><img alt="Magic Tiles 3" data-srcset="https://image.winudf.com/v2/image1/Y29tLnlvdW11c2ljLm1hZ2ljdGlsZXNfaWNvbl8xNTU1NTYwNzc1XzAwMg/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLnlvdW11c2ljLm1hZ2ljdGlsZXNfaWNvbl8xNTU1NTYwNzc1XzAwMg/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">Magic Tiles 3</p>
+			
+				
+					<p>7.011.004</p>
+					<p class="app-text-developer">AMANOTES</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/subway-surfers-1/com.kiloo.subwaysurf" title="Subway Surfers">
+		<div class="app-icon"><img alt="Subway Surfers" data-srcset="https://image.winudf.com/v2/image1/Y29tLmtpbG9vLnN1YndheXN1cmZfaWNvbl8xNTc0OTMxNjEwXzAyMg/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmtpbG9vLnN1YndheXN1cmZfaWNvbl8xNTc0OTMxNjEwXzAyMg/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">Subway Surfers</p>
+			
+				
+					<p>1.112.0</p>
+					<p class="app-text-developer">Kiloo</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/beautyplus-easy-photo-editor-selfie-camera/com.commsource.beautyplus" title="BeautyPlus">
+		<div class="app-icon"><img alt="BeautyPlus" data-srcset="https://image.winudf.com/v2/image1/Y29tLmNvbW1zb3VyY2UuYmVhdXR5cGx1c19pY29uXzE1NTUyOTc3NzZfMDIx/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmNvbW1zb3VyY2UuYmVhdXR5cGx1c19pY29uXzE1NTUyOTc3NzZfMDIx/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">BeautyPlus</p>
+			
+				
+					<p>7.0.260</p>
+					<p class="app-text-developer">Meitu (China) Limited</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+
+<li>
+	<a href="/los-angeles-crimes/com.MA.LAC" title="Los Angeles Crimes">
+		<div class="app-icon"><img alt="Los Angeles Crimes" data-srcset="https://image.winudf.com/v2/image1/Y29tLk1BLkxBQ19pY29uXzE1NjY5NjY2MTVfMDM4/icon.png?w=140&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLk1BLkxBQ19pY29uXzE1NjY5NjY2MTVfMDM4/icon.png?w=70&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></div>
+		<div class="app-text">
+			<p class="app-text-title mt-3">Los Angeles Crimes</p>
+			
+				
+					<p>1.5.4</p>
+					<p class="app-text-developer">RAIN CITY STUDIO</p>
+				
+			
+		</div>
+	</a>
+</li>
+
+
+
+	</ul>
+	<div class="clear"></div>
+</div>
+
+        <div class="adsbypure"
+     style="margin: 0 auto 20px auto;position: relative;width:100%;overflow: hidden;height: 306px;"
+     data-ad-id="6440728838366015"
+     data-ad-slot="1548830511987"
+     data-pure-t="SIDE"
+     data-pure-tl="en"
+     data-pure-xll=""
+     data-pure-l="banner"
+     data-pure-i="0"></div>
+        
+        
+        
+<div class="box">
+	<div class="title">
+        <div class="tit">Popular Apps In Last 24 Hours</div>
+    </div>
+	<ul class="day_list">
+        
+
+
+<li>
+	<div class="day_list_number">1</div>
+	<dl>
+		<dt><a title="LuluBox - Allow you to unlock all skin of FreeFire" href="/lulubox/com.lulu.lulubox"><img alt="LuluBox - Allow you to unlock all skin of FreeFire" data-srcset="https://image.winudf.com/v2/user/admin/YWRtaW5faWNfbGF1bmNoZXIucG5nXzE1NTI1MzQwNzgwNjg/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/user/admin/YWRtaW5faWNfbGF1bmNoZXIucG5nXzE1NTI1MzQwNzgwNjg/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="LuluBox - Allow you to unlock all skin of FreeFire" href="/lulubox/com.lulu.lulubox">LuluBox - Allow you to unlock all skin of FreeFire</a></dd>
+		<dd>4.5.22</dd>
+		<dd>Tools</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download LuluBox - Allow you to unlock all skin of FreeFire latest version apk" href="/lulubox/com.lulu.lulubox/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">2</div>
+	<dl>
+		<dt><a title="VidMate" href="/vidmate-downloader-hd-live-tv/com.nemo.vidmate"><img alt="VidMate" data-srcset="https://image.winudf.com/v2/image/YWRtaW5f5aSa5aSn55qELnBuZ18xNTI4NzEzMTcxMjU0/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image/YWRtaW5f5aSa5aSn55qELnBuZ18xNTI4NzEzMTcxMjU0/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="VidMate" href="/vidmate-downloader-hd-live-tv/com.nemo.vidmate">VidMate</a></dd>
+		<dd>4.2514</dd>
+		<dd>Tools</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download VidMate - HD Video Downloader &amp; Live TV latest version apk" href="/vidmate-downloader-hd-live-tv/com.nemo.vidmate/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">3</div>
+	<dl>
+		<dt><a title="WhatsApp" href="/whatsapp-messenger/com.whatsapp"><img alt="WhatsApp" data-srcset="https://image.winudf.com/v2/image1/Y29tLndoYXRzYXBwX2ljb25fMTU1OTg1MDA2NF8wNjI/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLndoYXRzYXBwX2ljb25fMTU1OTg1MDA2NF8wNjI/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="WhatsApp" href="/whatsapp-messenger/com.whatsapp">WhatsApp</a></dd>
+		<dd>2.19.360</dd>
+		<dd>Communication</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download WhatsApp Messenger latest version apk" href="/whatsapp-messenger/com.whatsapp/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">4</div>
+	<dl>
+		<dt><a title="Google Play Store" href="/google-play-store/com.android.vending"><img alt="Google Play Store" data-srcset="https://image.winudf.com/v2/image/YWRtaW5faWNfbGF1bmNoZXJfcGxheV9zdG9yZS5wbmdfMTUwMjE2MzE4NzkwMw/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image/YWRtaW5faWNfbGF1bmNoZXJfcGxheV9zdG9yZS5wbmdfMTUwMjE2MzE4NzkwMw/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="Google Play Store" href="/google-play-store/com.android.vending">Google Play Store</a></dd>
+		<dd>17.9.17-all [0] [PR] 284629082</dd>
+		<dd>Tools</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download Google Play Store latest version apk" href="/google-play-store/com.android.vending/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">5</div>
+	<dl>
+		<dt><a title="Messenger" href="/facebook-messenger/com.facebook.orca"><img alt="Messenger" data-srcset="https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLm9yY2FfaWNvbl8xNTYxNDE0ODQ5XzAwMw/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLm9yY2FfaWNvbl8xNTYxNDE0ODQ5XzAwMw/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="Messenger" href="/facebook-messenger/com.facebook.orca">Messenger</a></dd>
+		<dd>245.0.0.19.113</dd>
+		<dd>Communication</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download Messenger – Text and Video Chat for Free latest version apk" href="/facebook-messenger/com.facebook.orca/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">6</div>
+	<dl>
+		<dt><a title="Instagram" href="/instagram/com.instagram.android"><img alt="Instagram" data-srcset="https://image.winudf.com/v2/image1/Y29tLmluc3RhZ3JhbS5hbmRyb2lkX2ljb25fMTU2MTUwNDM4M18wOTQ/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmluc3RhZ3JhbS5hbmRyb2lkX2ljb25fMTU2MTUwNDM4M18wOTQ/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="Instagram" href="/instagram/com.instagram.android">Instagram</a></dd>
+		<dd>123.0.0.21.114</dd>
+		<dd>Social</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download Instagram latest version apk" href="/instagram/com.instagram.android/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">7</div>
+	<dl>
+		<dt><a title="Facebook" href="/facebook/com.facebook.katana"><img alt="Facebook" data-srcset="https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLmthdGFuYV9pY29uXzE1NTc5OTAwMzBfMDIz/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLmthdGFuYV9pY29uXzE1NTc5OTAwMzBfMDIz/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="Facebook" href="/facebook/com.facebook.katana">Facebook</a></dd>
+		<dd>251.0.0.31.111</dd>
+		<dd>Social</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download Facebook latest version apk" href="/facebook/com.facebook.katana">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">8</div>
+	<dl>
+		<dt><a title="SHAREit" href="/shareit-transfer-share/com.lenovo.anyshare.gps"><img alt="SHAREit" data-srcset="https://image.winudf.com/v2/image1/Y29tLmxlbm92by5hbnlzaGFyZS5ncHNfaWNvbl8xNTU1NDgyMTExXzAyNg/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmxlbm92by5hbnlzaGFyZS5ncHNfaWNvbl8xNTU1NDgyMTExXzAyNg/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="SHAREit" href="/shareit-transfer-share/com.lenovo.anyshare.gps">SHAREit</a></dd>
+		<dd>5.2.62_ww</dd>
+		<dd>Tools</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download SHAREit - Transfer &amp; Share latest version apk" href="/shareit-transfer-share/com.lenovo.anyshare.gps/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">9</div>
+	<dl>
+		<dt><a title="Facebook Lite" href="/facebook-lite/com.facebook.lite"><img alt="Facebook Lite" data-srcset="https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLmxpdGVfaWNvbl8xNTczNTQ5NzE4XzAxOQ/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmZhY2Vib29rLmxpdGVfaWNvbl8xNTczNTQ5NzE4XzAxOQ/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="Facebook Lite" href="/facebook-lite/com.facebook.lite">Facebook Lite</a></dd>
+		<dd>178.0.0.11.121</dd>
+		<dd>Social</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download Facebook Lite latest version apk" href="/facebook-lite/com.facebook.lite/download?from=details%2Fside">Download APK</a></dd>
+	</dl>
+</li>
+
+
+
+
+<li>
+	<div class="day_list_number">10</div>
+	<dl>
+		<dt><a title="YouTube" href="/youtube/com.google.android.youtube"><img alt="YouTube" data-srcset="https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmVfaWNvbl8xNTU1MTE3NTQ3XzA5NA/icon.png?w=120&amp;fakeurl=1 2x" data-original="https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5hbmRyb2lkLnlvdXR1YmVfaWNvbl8xNTU1MTE3NTQ3XzA5NA/icon.png?w=60&amp;fakeurl=1" src="https://static.apkpure.com/www/static/imgs/lazy.png"/></a></dt>
+		<dd class="title-dd"><a title="YouTube" href="/youtube/com.google.android.youtube">YouTube</a></dd>
+		<dd>14.50.53</dd>
+		<dd>Video Players & Editors</dd>
+		<dd class="down"><a rel="nofollow" class="" title="Download YouTube latest version xapk" href="/youtube/com.google.android.youtube/download?from=details%2Fside">Download XAPK</a></dd>
+	</dl>
+</li>
+
+
+        
+        <div class="day_list_more"><a href="/app-24h">More &raquo;</a></div>
+        
+	</ul>
+	<div class="clear"></div>
+</div>
+
+        
+        
+    </div>
+	<div class="clear"></div>
+</div>
+
+<div  class="mfp-hide ver-popup"></div>
+
+<div id="ad-aegon-side">
+    <a class="dl-ref" dl-ref="qr" title="Download APKPure App" href="/apkpure-app.html?icn=aegon&ici=image_qr">
+        <div class="qr"><img src="https://static.apkpure.com/www/static/imgs/aegon_qr.png"></div>
+        <div class="down">Download<br>APKPure App</div>
+        <div class="ico"><img src="https://image.winudf.com/v2/image/YWRtaW5fU2xpY2UgMS5wbmdfMTUzOTE1MjYwNTY0MQ/icon.png?w=50&amp;fakeurl=1" width="23"></div>
+    </a>
+</div>
+<div class="clear" style="height:0px;"></div>
+<div class="footer">
+    <div class="footer-list">
+        <div class="main">
+            <div class="list">
+                <p>SOLUTIONS</p>
+                <ul>
+                    
+                    <li><a rel="alternate" media="only screen and (max-width: 640px)" class="amobile" href="https://m.apkpure.com/target/com.target.ui">Mobile Version</a></li>
+                    
+                    <li><a class="dl-ref" dl-ref="footer" href="https://apkpure.com/apkpure-app.html?icn=aegon&ici=text_footer">APKPure For Android</a></li>
+                    <li><a href="https://apkpure.com/apk-install.html">APK Install</a></li>
+                    <li><a href="https://apkpure.com/region-free-apk-download">APK Downloader (Region free)</a></li>
+                    <li><a href="https://apkpure.com/apk-signature-verification">APK Signature Verification</a></li>
+                </ul>
+                <div class="clear" style="height:10px;"></div>
+                <p>CUSTOMER SERVICE</p>
+                <ul>
+                    <li><a href="https://developer.apkpure.com?hl=en" target="_blank">Developer Console</a></li>
+                    <li><a href="/about.html">About Us</a></li>
+                    <li><a href="/contact-us.html">Contact Us</a></li>
+                    <li><a href="/report-content.html">Report abuse</a></li>
+                    <li><a href="/cooperation.html">Business Cooperation</a></li>
+                </ul>
+            </div>
+            <div class="list">
+                <p>FOLLOW US</p>
+
+                
+                
+                <ul class="follow">
+                    <li><a class="fb" rel="nofollow noopener" target="_blank" href="https://www.facebook.com/apkpure"><span>Facebook</span></a></li>
+                    <li><a class="tw" rel="nofollow noopener" target="_blank" href="https://twitter.com/apkpure"><span>Twitter</span></a></li>
+                    <li><a class="glp" rel="nofollow noopener" target="_blank" href="https://www.youtube.com/channel/UCbCOKdnt1yYk4S3I4a034XQ"><span>YouTube</span></a></li>
+                </ul>
+
+                
+            </div>
+            <div class="list">
+                <p>TOP ANDROID APPS</p>
+                <ul>
+                    
+                    
+<li><a title="LuluBox - Allow you to unlock all skin of FreeFire APK" href="/lulubox/com.lulu.lulubox">LuluBox - Allow you to unlock all skin of FreeFire APK</a></li>
+
+<li><a title="WhatsApp Messenger APK" href="/whatsapp-messenger/com.whatsapp">WhatsApp APK</a></li>
+
+<li><a title="Messenger – Text and Video Chat for Free APK" href="/facebook-messenger/com.facebook.orca">Messenger APK</a></li>
+
+<li><a title="Google Play Store APK" href="/google-play-store/com.android.vending">Google Play Store APK</a></li>
+
+<li><a title="Instagram APK" href="/instagram/com.instagram.android">Instagram APK</a></li>
+
+<li><a title="YouTube APK" href="/youtube/com.google.android.youtube">YouTube APK</a></li>
+
+<li><a title="SHAREit - Transfer &amp; Share APK" href="/shareit-transfer-share/com.lenovo.anyshare.gps">SHAREit APK</a></li>
+
+<li><a title="Facebook APK" href="/facebook/com.facebook.katana">Facebook APK</a></li>
+
+<li><a title="Facebook Lite APK" href="/facebook-lite/com.facebook.lite">Facebook Lite APK</a></li>
+
+<li><a title="Snapchat APK" href="/snapchat/com.snapchat.android">Snapchat APK</a></li>
+
+                </ul>
+            </div>
+            <div class="list">
+                <p>TOP ANDROID GAMES</p>
+                <ul>
+                    
+                    
+<li><a title="PUBG MOBILE APK" href="/pubg-mobile-4-android-i/com.tencent.ig">PUBG MOBILE APK</a></li>
+
+<li><a title="Garena Free Fire: Winterlands APK" href="/garena-free-fire-android-il/com.dts.freefireth">Garena Free Fire: Winterlands APK</a></li>
+
+<li><a title="PUBG MOBILE LITE APK" href="/pubg-lite-android/com.tencent.iglite">PUBG MOBILE LITE APK</a></li>
+
+<li><a title="PUBG MOBILE KR APK" href="/pubg-mobile/com.pubg.krmobile">PUBG MOBILE KR APK</a></li>
+
+<li><a title="Mobile Legends: Bang Bang APK" href="/mobile-legends-bang-bang/com.mobile.legends">Mobile Legends: Bang Bang APK</a></li>
+
+<li><a title="Call of Duty®: Mobile APK" href="/call-of-duty-legends-of-war/com.activision.callofduty.shooter">Call of Duty®: Mobile APK</a></li>
+
+<li><a title="Subway Surfers APK" href="/subway-surfers-1/com.kiloo.subwaysurf">Subway Surfers APK</a></li>
+
+<li><a title="Pokémon Masters APK" href="/pok%C3%A9mon-masters/com.dena.a12026418">Pokémon Masters APK</a></li>
+
+<li><a title="PUBG MOBILE VN APK" href="/pubg-mobile-vn/com.vng.pubgmobile">PUBG MOBILE APK</a></li>
+
+<li><a title="Minecraft Trial APK" href="/minecraft-trial-i/com.mojang.minecrafttrialpe">Minecraft Trial APK</a></li>
+
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="copyright">
+        Copyright © 2014-2020 APKPure All rights reserved.
+        | <a href="/dmca.html" rel="nofollow">DMCA Disclaimer</a>
+        | <a href="/privacy-policy.html">Privacy Policy</a>
+        | <a href="/terms.html" rel="nofollow">Term of Use</a>
+        | <a target="_blank" href="https://translate.apkpure.com/projects/apkpure/apkpurecom/" rel="nofollow">Help translate APKPure</a>
+        
+    </div>
+</div>
+<div class="share-fixed share-hide">
+    <div class="share-btn share-web">
+        <ul>
+            <li>
+                <a class="share-fb" data-sharer="facebook"><span class="icon"></span></a>
+            </li>
+            <li>
+                <a class="share-t" data-sharer="twitter"><span class="icon"></span></a>
+            </li>
+            <li>
+                <a class="share-reddit" data-sharer="reddit"><span class="icon"></span></a>
+            </li>
+            <li>
+                <a class="share-vk" data-sharer="vk"><span class="icon"></span></a>
+            </li>
+            <li>
+                <a class="share-whatsapp" data-sharer="whatsapp"><span class="icon"></span></a>
+            </li>
+            <li>
+                <a class="share-more"><span class="icon"></span></a>
+            </li>
+            <li>
+                <div class="share-side-counter"></div>
+            </li>
+        </ul>
+    </div>
+</div>
+<script src="https://i.apkpure.com/user_v1002.js?hl=en" type="text/javascript"></script>
+<script src="https://static.apkpure.com/www/static/script/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="https://static.apkpure.com/www/static/script/lazyload-11.0.6.min.js" type="text/javascript"></script>
+<script src="/language_v1031.js?hl=en" type="text/javascript"></script>
+<script src="https://static.apkpure.com/www/static/script/global_v1197.min.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script src="https://static.apkpure.com/www/static/script/ie8.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://static.apkpure.com/www/static/script/base64_v1197.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+
+<script type="text/javascript">
+    var comment_config = {
+        page: {
+            categoryId: 'com.target.ui',
+            title: document.title,
+            url:location.href
+        },
+        version_name: '6.48.0',
+        version_code: '1906001618',
+        order: "default",
+        iapi_url:'https://i.apkpure.com',
+        template_language:'en',
+        group_id:'target-now-with-cartwheel',
+        group_cmt_type: "reviews",
+        group_url_old:"/group/target-now-with-cartwheel?is_old=1"
+    };
+    $$.initDetails();
+    $$.initVersions('.ver-item-m.pop');
+</script>
+<script src="//a.apkpure.com/analytics_v1008.js" type="text/javascript"></script>
+<script async src="https://cdnpure.com/static/js/ads-1.0.2.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnpure.com/static/share-button/css/share-button.1.0.9.min.css" />
+<script async src="https://cdnpure.com/static/share-button/js/share-button.1.0.9.min.js" type="text/javascript"></script>
+<script>
+    !function(a,e){var s,r=e.querySelector("link[rel='canonical']");s=r?r.getAttribute("href"):location.href,"object"==typeof addthis_share&&addthis_share.url&&(s=addthis_share.url),$(e).on("click","[data-sharer]",function(){var a=$(this).attr("data-sharer");a+="|com.target.ui",$$.analytics.send("event","share",s,e.title,a)}),$.ajax({url:"https://a.apkpure.com/api-shares.json?url="+encodeURIComponent(s),type:"GET",dataType:"jsonp",jsonp:"callback",success:function(a){a&&a.shares&&($(".share-toolbox").append('<span class="share-counter">'+a.shares+"</span>"),$(".share-side-counter").html('<div class="share-side-count">'+a.shares+'</div><div class="share-side-text">SHARES</div>'))}})}(window,document);
+</script>
+<link rel="stylesheet" type="text/css" href="https://static.apkpure.com/iconfont/1005/iconfont.css" />
+<link rel="stylesheet" type="text/css" href="https://static.apkpure.com/www/static/script/comment_v1197.css" />
+
+<script src="https://static.apkpure.com/www/static/script/sweetalert.1.1.3.min.js" type="text/javascript"></script>
+<script src="https://static.apkpure.com/www/static/script/comment_v1068.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+<link rel="stylesheet" type="text/css" href="https://static.apkpure.com/www/static/script/sweetalert.1.1.3.min.css" />
+<script type="text/javascript">
+    $$.analytics.send('event','search_apk','com.target.ui','en-US','1');
+</script>
+</body>
+</html>
