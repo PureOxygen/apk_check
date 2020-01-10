@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fc2b475-aff5-4eba-aea7-c0dcb43fc756" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/app_scheme_test.rb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Messenger – Text and Video Chat for Free_v245.0.0.19.113_apkpure.com.apk" beforeDir="false" afterPath="$PROJECT_DIR$/manifest_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk_check.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk_list.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/schedule.rb" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/v.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/app_scheme_test.rb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app_scheme_test.rb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.alibaba.aliexpresshd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.amazon.mShop.android.shopping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.facebook.katana" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.google.android.youtube" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.instagram.android" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.snapchat.android" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.spotify.music" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.target.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.vuitton.android" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk/com.zhiliaoapp.musically" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apk_check.rb" beforeDir="false" afterPath="$PROJECT_DIR$/apk_check.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/versions.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +31,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VWyzKFOeAiVBZLAWuCxCwB2w2q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML&#10;ruby" />
@@ -56,7 +65,9 @@
       <option name="presentableId" value="Default" />
       <updated>1577383406648</updated>
       <workItem from="1577383412621" duration="3174000" />
-      <workItem from="1577396856937" duration="30680000" />
+      <workItem from="1577396856937" duration="32303000" />
+      <workItem from="1577717074721" duration="14588000" />
+      <workItem from="1578280353059" duration="8259000" />
     </task>
     <servers />
   </component>
@@ -68,10 +79,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
