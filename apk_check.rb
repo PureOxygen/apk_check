@@ -1,4 +1,4 @@
-#ruby -r "./apk_check.rb" -e "APKCheck.new.start()"
+# ruby -r "./apk_check.rb" -e "APKCheck.new.start()"
 
 require 'rubygems'
 require 'fileutils'
@@ -10,7 +10,6 @@ require 'down'
 require 'watir'
 
 class APKCheck
-  @version = []
   @name = []
   @file_name = []
 
@@ -19,33 +18,36 @@ class APKCheck
   end
 
   def start
+    @versions = []
     File.open("apk_list.csv","r").readlines.each do |url|
       get_version(url)
-      compare_versions
     end
-    update_csv(version_array)
+    update_csv
   end
 
   def get_version(url)
-    begin
-      version_array = []
       link = url.strip
       doc = Nokogiri::HTML(open(link))
       script = doc.search("script").to_s
       version = script.split('version_name:').last.split(',')[0].strip.gsub(/'/,'')
       name = doc.css(".title.bread-crumbs").to_s.split('name').last.split('span')[0].gsub(/\W+/, '')
-      puts "#{@name}"
+      puts "#{name}"
       puts "#{version}"
-      version_array.push(version)
-      end
+      # update_csv(version)
+      @versions.push(name, version)
+
   end
 
-  def update_csv(version_array)
-    CSV.open('v.csv','a') do |csv|
-    binding.pry
-       csv << [version_array]
-       end
+  def update_csv
+    fileName = "#{Time.now.strftime('%-m:%-d:%Y')}.csv"
+    finalcsv = CSV.open(fileName,'w+')
+    @versions.each do |v|
+      finalcsv << [v]
+    end
+    finalcsv.close
   end
+
+
 
   def compare_versions
 

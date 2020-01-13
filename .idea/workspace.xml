@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fc2b475-aff5-4eba-aea7-c0dcb43fc756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/v.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/app_scheme_test.rb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app_scheme_test.rb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1:12:2020.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.alibaba.aliexpresshd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.amazon.mShop.android.shopping" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.facebook.katana" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.google.android.youtube" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.instagram.android" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.snapchat.android" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.spotify.music" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.target.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.vuitton.android" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk/com.zhiliaoapp.musically" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apk_check.rb" beforeDir="false" afterPath="$PROJECT_DIR$/apk_check.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +56,9 @@
       <workItem from="1577383412621" duration="3174000" />
       <workItem from="1577396856937" duration="32303000" />
       <workItem from="1577717074721" duration="14588000" />
-      <workItem from="1578280353059" duration="8259000" />
+      <workItem from="1578280353059" duration="8780000" />
+      <workItem from="1578772800662" duration="592000" />
+      <workItem from="1578867188749" duration="9370000" />
     </task>
     <servers />
   </component>
