@@ -1,3 +1,3 @@
 every 7.days do
-   "ruby apk_check.rb"
+   "ruby get_release_date.rb"
 end
