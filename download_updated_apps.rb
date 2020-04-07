@@ -1,16 +1,17 @@
-#ruby -r "./get_release_date.rb" -e "GetReleaseDate.new.execute()"
+# ruby -r "./download_updated_apps.rb" -e "DownloadUpdatedApps.new.execute()"
 
 require 'webdrivers'
 require 'watir'
 require 'rubygems'
 require 'fileutils'
 require 'nokogiri'
-require 'pry'
 require 'open-uri'
 require 'csv'
 require 'diffy'
+require 'headless'
 
-class GetReleaseDate
+
+class DownloadUpdatedApps
 
   def initialize
     @version_array = []
@@ -32,10 +33,8 @@ class GetReleaseDate
   def get_release_date
     File.open("app_store_links.csv","r").readlines.each do |url|
       begin
-
         link = url.split(',')
         store_link = link[0]
-        @download_link = link[1]
         doc = Nokogiri::HTML(open(store_link))
         @release_date_div = doc.css('span.htlgb')[1]
         @release_date = @release_date_div.to_s.split('>').last.split('<').first
@@ -43,7 +42,7 @@ class GetReleaseDate
         @title = @title_div.to_s.split('>').last.split('<').first.gsub('&acirc;','-').gsub(/&#['\d']['\d']['\d']\;/,'').gsub(/&amp;/,'')
         puts "#{@title}"
         puts "#{@release_date.chomp}"
-        @version_array << ["#{@title}","#{@release_date}","#{@download_link}"]
+        @version_array << ["#{@title}","#{@release_date}"]
       end
     end
   end
@@ -64,36 +63,19 @@ class GetReleaseDate
   end
 
   def download_apk
-    File.open("diffs.csv","r").readlines.each do |line|
+    File.open("app_store_links.csv","r").readlines.each do |line|
       if line[0] == '+'
-        @download_link = line.split(',')[3].gsub(/\n/,'')
-        Watir::Browser.start @download_link
-        sleep 5
+      google_play_link = line.split(',').first
+      package_name = google_play_link.split('id=').last.split('&').first
+      options = Selenium::WebDriver::Chrome::Options.new
+      options.add_argument('--headless')
+      browser = Selenium::WebDriver.for :chrome, options: options
+      download_link = "https://apkcombo.com/apk-downloader/?device=&arch=&android=&q=#{package_name}"
+      browser.get download_link
+      sleep(1)
+      browser.find_element(class: '_right').click
       end
     end
   end
-
-
-
-
-
-  #def download(url)
-  ## ruby -r "./get_release_date.rb" -e "GetReleaseDate.new.download 'https://apkpure.com/facebook-messenger/com.facebook.orca'"
-  #  open(url + "/download?from=details") do |apk|
-  #  File.open("./Messenger – Text and Video Chat for Free_v245.0.0.19.113_apkpure.com.apk", "wb") do |file|
-  #    file.write(apk.read)
-  #    end
-  #  end
-  #end
-  #
-  #def name
-  #
-  #end
-  #
-  #def download_current_version
-  #  puts "This is download current version"
-  #end
-
-
 end
 

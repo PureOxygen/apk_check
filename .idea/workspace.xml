@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fc2b475-aff5-4eba-aea7-c0dcb43fc756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app_store_links.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_versions.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/app_scheme_test.rb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app_scheme_test.rb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_diff.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Messenger – Text and Video Chat for Free_v245.0.0.19.113_apkpure.com.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk_check.rb" beforeDir="false" afterPath="$PROJECT_DIR$/get_release_date.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apk_list.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/schedule.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/schedule.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_store_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/app_store_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/schedule.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diffs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/diffs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_release_date.rb" beforeDir="false" afterPath="$PROJECT_DIR$/download_updated_apps.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_versions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/new_versions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_versions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/old_versions.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,9 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -71,7 +72,16 @@
       <updated>1577383406648</updated>
       <workItem from="1577383412621" duration="3174000" />
       <workItem from="1577396856937" duration="19979000" />
-      <workItem from="1581544473130" duration="27052000" />
+      <workItem from="1581544473130" duration="30532000" />
+      <workItem from="1582579245174" duration="130000" />
+      <workItem from="1583158708729" duration="7646000" />
+      <workItem from="1584124385038" duration="2070000" />
+      <workItem from="1584994708272" duration="468000" />
+      <workItem from="1585177694437" duration="572000" />
+      <workItem from="1585420713438" duration="5914000" />
+      <workItem from="1586191693203" duration="3610000" />
+      <workItem from="1586196280195" duration="3605000" />
+      <workItem from="1586200318675" duration="17490000" />
     </task>
     <servers />
   </component>
